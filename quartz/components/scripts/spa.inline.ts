@@ -219,3 +219,29 @@ if (!customElements.get("route-announcer")) {
     },
   )
 }
+
+// Light Mode Default & Explorer Index Link Injector
+if (typeof window !== "undefined") {
+  const initCustomPageNav = () => {
+    // 1. Force Light Mode by default if theme is not set in localStorage
+    if (!localStorage.getItem("theme")) {
+      document.documentElement.setAttribute("saved-theme", "light")
+      document.body?.classList.remove("theme-dark")
+      document.body?.classList.add("theme-light")
+    }
+
+    // 2. Add Index link above wiki folder in Explorer sidebar
+    const explorerUl = document.querySelector(".explorer-ul")
+    if (explorerUl && !document.querySelector(".explorer-index-link")) {
+      const li = document.createElement("li")
+      li.className = "explorer-index-link"
+      li.style.listStyle = "none"
+      li.style.margin = "4px 0 6px 0"
+      li.innerHTML = '<a href="/storytelling/" class="nav-file-title tree-item-self" style="font-weight: 500;">Index</a>'
+      explorerUl.insertBefore(li, explorerUl.firstChild)
+    }
+  }
+
+  initCustomPageNav()
+  document.addEventListener("nav", initCustomPageNav)
+}
