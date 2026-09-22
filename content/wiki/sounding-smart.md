@@ -2,9 +2,9 @@
 
 **Summary**: Rob Willis's argument that persuasion comes from clarity, belief, and continuously earned attention — not from demonstrating how much you know.
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-22
 
 ---
 
@@ -17,6 +17,8 @@ Audiences do not want to be lectured by a textbook; they want to be led by a bel
 ## The Knowledge Deficit Trap
 
 When an audience doesn't immediately buy an idea, speakers assume they need *more information* — so they over-explain, dump data, and reach for jargon to sound smart. But persuasion requires connection, not information volume. This is the same failure mode the wiki already tracks as [[useful-vs-complete]]: give the audience what they need to *feel* the idea, not everything you know about it.
+
+Shannon Jenkins describes a related failure in how leaders present themselves: overemphasizing competence at the expense of warmth. The Knowledge Deficit Trap is that failure in the *content*; the competence–warmth gap is the same failure in the *speaker*. See [[competence-and-warmth]].
 
 ## Never Rely on a Captive Audience
 
@@ -60,3 +62,4 @@ Five concrete techniques:
 - [[scqa-framework]]
 - [[five-line-story]]
 - [[bluf-method]]
+- [[competence-and-warmth]]

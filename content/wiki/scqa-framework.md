@@ -2,9 +2,9 @@
 
 **Summary**: A four-beat scaffold for structuring an argument or presentation — Situation, Complication, Question, Answer — used independently by Minto and Duarte to organize the opening of any persuasive communication.
 
-**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-22
 
 ---
 
@@ -20,6 +20,9 @@ Two independent sources — Barbara Minto's [[minto-pyramid-principle]] and Nanc
 ## Why It Works
 
 SCQA turns a bare claim into a mini-narrative. By the time the Answer arrives, the audience has internalized the question — so the answer reads as a *resolution* rather than an *assertion*. This is more persuasive than leading with the conclusion alone, because the audience experiences the need for the answer before hearing it.
+
+> [!conflict]- Disputed: BLUF and Minto say the answer should come first
+> The BLUF source and Barbara Minto argue that leading with the conclusion is more effective, and Minto herself places SCQA's Answer first (see the worked example below). See [[debate-answer-first-or-last]].
 
 ## Worked Example — From the Minto Source
 
@@ -56,6 +59,17 @@ Rob Willis, coaching pitch delivery rather than writing or formal argument, inde
 
 Willis also offers a structurally different alternative, [[what-so-what-now-what]] (What / So What / Now What), for cases that don't hinge on a single complication but still need to end in an action.
 
+## SCQA, Tension, and Curiosity
+
+Shannon Jenkins's storytelling lessons (see [[how-to-tell-stories-better]]) name what two of the beats do:
+
+- **Complication = [[tension]].** Something uncertain and something at stake.
+- **Question = [[curiosity]].** The thing the audience wants to know.
+
+This explains why the Answer lands as a resolution rather than an assertion: the audience has already been given a reason to care and a question to hold. It also explains why SCQA still works in BLUF order (Answer first). The tension and the question still come, just after the claim, so they justify the answer instead of building suspense for it.
+
+Jenkins's [[cart-framework]] (Context, Action, Result, Takeaway) is a story-shaped relative: Context ≈ Situation, Action ≈ Complication, and the Takeaway plays the role of the Answer.
+
 ## Related pages
 
 - [[minto-pyramid-principle]]
@@ -65,3 +79,7 @@ Willis also offers a structurally different alternative, [[what-so-what-now-what
 - [[monroes-motivated-sequence]]
 - [[what-so-what-now-what]]
 - [[sounding-smart]]
+- [[tension]]
+- [[curiosity]]
+- [[cart-framework]]
+- [[debate-answer-first-or-last]]

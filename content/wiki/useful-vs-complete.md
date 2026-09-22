@@ -2,9 +2,9 @@
 
 **Summary**: The cross-cutting insight running through all three sources in this wiki — a complete explanation and a useful one are rarely the same thing.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-22
 
 ---
 
@@ -33,6 +33,9 @@ The result: the audience receives more information than they can use, and the mo
 | PAST — Thoughts | Emotional summary ("I was nervous") | The raw thought ("I thought, 'This is going to be terrible'") |
 | Van Neistat — Master vs. Amateur | Overloading with irrelevant facts (the full hospital itinerary) | Build only what serves the [[surprise]]; cut everything else |
 | Knowledge Deficit Trap (Willis) | Over-explaining and jargon to "sound smart" when an idea doesn't land | Give the audience what they need to *feel* the idea, not everything you know |
+| Jenkins — Helicopter view | Summarizing ("there was resistance") instead of showing the moment | Zoom into a specific scene; see [[five-second-moment]] |
+| Jenkins — Right amount of specificity | Too vague *or* too much detail | A few anchors that help the listener see and feel; see [[right-amount-of-specificity]] |
+| Jenkins — Pacing | Giving every part of a story equal weight | Compress the bridges, slow down for key moments; see [[pacing]] |
 
 ## The Underlying Principle
 
@@ -41,6 +44,8 @@ All three sources converge on the same idea: **the listener's experience is the 
 Note that [[truth-vs-facts]] addresses a related but distinct problem: not *how much* to say, but *how precisely to say it*. Useful-vs-complete is about omitting irrelevant information; truth-vs-facts is about allowing minor factual details to flex in service of emotional truth.
 
 In storytelling, this means reliving > reporting. In professional communication, this means useful > complete.
+
+**A nuance from Jenkins: useful isn't the same as minimal.** Most sources here warn against saying too much. Shannon Jenkins also names the opposite failure: the vague helicopter summary that gives the listener nothing to picture. "Useful" means calibrated to what the listener needs, and sometimes that means *more* concrete detail, not less. See [[right-amount-of-specificity]] and [[how-to-tell-stories-better]].
 
 ## Related pages
 
@@ -52,3 +57,6 @@ In storytelling, this means reliving > reporting. In professional communication,
 - [[truth-vs-facts]]
 - [[van-neistat-storytelling]]
 - [[sounding-smart]]
+- [[right-amount-of-specificity]]
+- [[pacing]]
+- [[how-to-tell-stories-better]]

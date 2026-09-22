@@ -1,10 +1,10 @@
-﻿# Story Killers
+# Story Killers
 
 **Summary**: Six meta-phrases that undermine a story before it starts, each with a direct antidote in the PAST framework.
 
-**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k)
+**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-04-24
+**Last updated**: 2026-09-22
 
 ---
 
@@ -19,6 +19,12 @@ These phrases signal to the listener that the teller lacks confidence in the sto
 | "Does that make sense?" | Signals doubt; breaks immersion | Trust the Thoughts — if you show transformation, it makes sense |
 | "The moral of the story is..." | Explains the point the story should have made itself | End on your final Thought/Transformation, then stop |
 
+> [!conflict]- Disputed: Jenkins says stating what the story meant is the most important step ("moral" row)
+> Shannon Jenkins argues the takeaway is the part communicators most often skip, and warns against leaving the audience wondering why you told the story. See [[debate-state-the-moral]].
+
+> [!conflict]- Disputed: Willis and Jenkins open with a hook, not Place ("I have a story" row)
+> Willis says to open with a high-stakes thought or question; Jenkins says to open with an unanswered question and hold back the setup. See [[debate-how-to-open]].
+
 ## Connection to PAST
 
 Each killer phrase has a direct antidote in the [[past-storytelling-technique]] pillars. Place, Action, Speech, and Thoughts do the work these phrases try to do with words.
@@ -27,9 +33,18 @@ Each killer phrase has a direct antidote in the [[past-storytelling-technique]] 
 
 Van Neistat's [[van-neistat-storytelling]] source adds a concrete example of story-killing in action: the amateur's retelling of the Bert Kreischer story buries the emotional core under an irrelevant flood of hospital visit details. This is the same failure mode as every killer phrase above — in each case, the teller prioritizes coverage over the listener's experience, and the [[surprise]] is lost.
 
+## Nuance: "I'll Be Brief"
+
+The fix for "I'll be brief" is to *be* brief by starting with Action. [[pacing]] adds a refinement: brief doesn't mean uniformly short. Speed through what the audience only needs to know, and slow down for the moment that matters.
+
 ## Related pages
 
 - [[past-storytelling-technique]]
 - [[five-second-moment]]
 - [[van-neistat-storytelling]]
 - [[surprise]]
+- [[what-happened-vs-what-it-meant]]
+- [[pacing]]
+- [[how-to-tell-stories-better]]
+- [[debate-state-the-moral]]
+- [[debate-how-to-open]]

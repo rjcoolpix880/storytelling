@@ -2,9 +2,9 @@
 
 **Summary**: Barbara Minto's top-down communication structure — bottom line first, then key points, then supporting data — designed for busy audiences who scan rather than read.
 
-**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid)
+**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-05-28
+**Last updated**: 2026-09-22
 
 ---
 
@@ -47,12 +47,16 @@ Minto built this for executives with no time to read walls of text. The Nielsen 
 
 Stating the conclusion first also frames every subsequent detail around it, which is more persuasive than letting the audience build their own interpretation as you go.
 
+> [!conflict]- Disputed: Van Neistat and Jenkins say leading with the key fact ruins a story
+> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff. Duarte's SCQA template and Monroe's sequence also build up before the answer. See [[debate-answer-first-or-last]].
+
 ## How It Connects to Other Frameworks
 
 - Minto's top tier *is* [[bluf-method]] — same idea, different vocabulary. Minto's contribution is the structure underneath: SCQA on top, MECE underneath.
 - The [[scqa-framework]] within Minto also appears in [[duarte-resonate]] as the story template. Two independent sources converge on the same four-beat structure for arguments.
 - MECE is a [[useful-vs-complete]] tool — it forces categorization that is rigorous (complete) but also non-overlapping (useful for analysis).
 - The "answer-first" insight here parallels [[jit-context]]: lead with what the listener needs first, hold the supporting context until requested.
+- The SCQA top tier builds a small amount of [[tension]] (the Complication) and [[curiosity]] (the Question) around the answer.
 
 ## Related pages
 
@@ -62,3 +66,6 @@ Stating the conclusion first also frames every subsequent detail around it, whic
 - [[duarte-resonate]]
 - [[jit-context]]
 - [[useful-vs-complete]]
+- [[curiosity]]
+- [[tension]]
+- [[debate-answer-first-or-last]]

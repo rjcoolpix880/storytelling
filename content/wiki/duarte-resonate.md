@@ -2,9 +2,9 @@
 
 **Summary**: Nancy Duarte's three-part toolkit for building persuasive presentations — the Audience's Journey, the SCQA story template, and the Sparkline — synthesized in Tomasz Tunguz's review of her book *Resonate*.
 
-**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/)
+**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-05-28
+**Last updated**: 2026-09-22
 
 ---
 
@@ -14,13 +14,16 @@ Duarte gives presenters three tools to do this work.
 
 ## 1. The Audience's Journey
 
-A 12-step adaptation of the hero's journey, but with the audience as protagonist. The first four steps:
+A 12-step adaptation of the hero's journey, but with the audience as protagonist. The first five steps:
 
 1. Paint the ordinary world (the present)
 2. Contrast it with the special world (the future)
 3. Issue the call to adventure
 4. Handle the audience's immediate objections
 5. Establish the presenter as the mentor
+
+> [!conflict]- Disputed (step 3): Monroe saves the call to action for the end
+> In Monroe's Motivated Sequence, the call to action is the final step. Duarte issues the call third, near the start. See [[monroes-motivated-sequence]].
 
 The remaining steps mirror the rest of the classic hero's arc. Duarte demonstrates the parallel by mapping the journey onto Luke Skywalker in Star Wars. See [[audience-journey]] for the full concept.
 
@@ -59,6 +62,7 @@ This is the same mechanism Monroe's Need → Visualize pair drives in [[monroes-
 - The audience-as-hero framing inverts a common presenter mistake: making the presenter (or product) the hero. The presenter is the *mentor*, not the protagonist.
 - "Complexity kills presentations" parallels [[useful-vs-complete]] and [[story-killers]] — overload defeats the message.
 - The sparkline's emphasis on emotional response (claps, laughs, wonder) connects to [[surprise]]: the master measures not what was said but what the audience *felt*.
+- The sparkline is [[tension]] sustained across a whole talk: each return to "what is" reopens the gap. It's also [[pacing]] at the scale of a presentation. Shannon Jenkins's pacing works within a single story (slow for key moments, fast for bridges); the sparkline works across sections (present vs. future).
 
 ## Related pages
 
@@ -69,3 +73,5 @@ This is the same mechanism Monroe's Need → Visualize pair drives in [[monroes-
 - [[minto-pyramid-principle]]
 - [[useful-vs-complete]]
 - [[surprise]]
+- [[tension]]
+- [[pacing]]

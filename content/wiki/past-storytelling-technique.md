@@ -2,9 +2,9 @@
 
 **Summary**: A four-pillar framework for telling vivid, emotionally resonant stories by zooming into a single moment of change.
 
-**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0)
+**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-16
+**Last updated**: 2026-09-22
 
 ---
 
@@ -21,6 +21,9 @@ Ground the story immediately by stating where and when it happened in the very f
 - **Don't:** "Well, it was a warm Sunday afternoon. Birds were singing..."
 
 A specific date makes the story feel authentic.
+
+> [!conflict]- Disputed: Willis and Jenkins open with a hook, not the where and when
+> Willis says to drop into a high-stakes thought or question; Jenkins says to open with an unanswered question and hold back the setup (her "Don't" is a when-first opening). See [[debate-how-to-open]].
 
 ## A — Action
 
@@ -61,7 +64,10 @@ So the four letters are best read as **ingredients to make sure are present**, n
 
 ## Story Killers
 
-Certain phrases undermine a story before it starts. See [[story-killers]] for the full list.
+Certain phrases undermine a story before it starts. See [[story-killers]] for the full list. One of them, "The moral of the story is...", has the fix: end on your final Thought and then stop talking.
+
+> [!conflict]- Disputed: Jenkins says stating what the story meant is the most important step
+> Shannon Jenkins argues the takeaway is the most-skipped part of a story, and that the ending should make clear why you told it. See [[debate-state-the-moral]].
 
 ## Building Material: Homework for Life
 
@@ -75,6 +81,14 @@ Van Neistat's [[van-neistat-storytelling]] independently arrives at the same cor
 
 The [[five-line-story]] framework offers a parallel scaffold: Situation maps to Place/Action, and Change maps directly to the Five-Second Moment. Its most distinct contribution is [[desire]] — the explicit naming of what the character wants, which PAST leaves implicit in the Action.
 
+Shannon Jenkins's [[how-to-tell-stories-better]] independently agrees on zooming into the moment, and adds three things PAST leaves out:
+
+- **[[pacing]].** PAST slows one moment down. Jenkins adds what to do with the rest: compress it rather than delete it.
+- **A takeaway.** Jenkins says to finish by saying what the story *meant* (see [[what-happened-vs-what-it-meant]]). This is a direct disagreement with PAST; see the conflict note under Story Killers above.
+- **Warmth.** Jenkins frames personal stories as a way for leaders to close the gap between competence and warmth. See [[competence-and-warmth]].
+
+One nuance on Place: PAST's "Don't" example starts with "a warm Sunday afternoon," and Jenkins's best example also starts with "Sunday afternoon." The difference is function. PAST's is scenery; Jenkins's is a ritual that carries the story's emotion. See [[right-amount-of-specificity]].
+
 ## Related pages
 
 - [[five-second-moment]]
@@ -87,3 +101,11 @@ The [[five-line-story]] framework offers a parallel scaffold: Situation maps to 
 - [[van-neistat-storytelling]]
 - [[five-line-story]]
 - [[desire]]
+- [[pacing]]
+- [[what-happened-vs-what-it-meant]]
+- [[competence-and-warmth]]
+- [[right-amount-of-specificity]]
+- [[cart-framework]]
+- [[how-to-tell-stories-better]]
+- [[debate-how-to-open]]
+- [[debate-state-the-moral]]

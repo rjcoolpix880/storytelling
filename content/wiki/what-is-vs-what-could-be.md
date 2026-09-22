@@ -2,9 +2,9 @@
 
 **Summary**: The oscillation between the present and a possible future is the underlying engine of persuasive communication — named explicitly by Duarte, executed as discrete steps by Monroe, and implicit in every story's desire/conflict structure.
 
-**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/)
+**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-05-28
+**Last updated**: 2026-09-22
 
 ---
 
@@ -39,6 +39,13 @@ The gap is not just a persuasive device — it is the same engine that makes sto
 
 In storytelling, the gap is between expectation and reality. In persuasion, the gap is between present and future. Both rely on the same psychological mechanism: humans pay attention to *unresolved gaps* and lose interest when nothing is at stake.
 
+**Two kinds of gap.** Shannon Jenkins's lessons (see [[how-to-tell-stories-better]]) help separate the gaps this page describes:
+
+- A **knowledge gap**: the listener doesn't know something and wants to. That's [[curiosity]].
+- An **outcome gap**: something is at stake and unresolved. That's [[tension]].
+
+The present-vs-future gap in persuasion is mostly an outcome gap (tension): will we get to the better future? Surprise closes a knowledge gap in an unexpected way. Strong presentations use both: Duarte's oscillation sustains tension, and a well-placed unanswered question adds curiosity.
+
 ## Practical Implications
 
 - **Don't lead with the future alone.** A vision without a grounded "what is" feels detached.
@@ -54,3 +61,6 @@ In storytelling, the gap is between expectation and reality. In persuasion, the 
 - [[surprise]]
 - [[desire]]
 - [[five-line-story]]
+- [[curiosity]]
+- [[tension]]
+- [[how-to-tell-stories-better]]

@@ -2,9 +2,9 @@
 
 **Summary**: A communication strategy of providing only the information a listener needs to take their next step — no more, no less.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s)
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-04-23
+**Last updated**: 2026-09-22
 
 ---
 
@@ -38,8 +38,17 @@ The PM now has exactly what they need to have a conversation with stakeholders.
 
 JIT Context pairs naturally with [[bluf-method#BLUF: Bottom Line Upfront|BLUF]] — lead with the conclusion, then use JIT to decide how much of the journey to share. The [[zoom-in-method]] is a structured way to deliver JIT context layer by layer.
 
+## JIT Inside a Story
+
+Shannon Jenkins's storytelling lessons apply the same instinct inside a story, with two nuances:
+
+- **[[pacing]] compresses rather than cuts.** Jenkins says to speed through information the audience "simply needs to know." That's JIT thinking, but the bridge material isn't removed. It's shortened, because later parts of the story depend on it.
+- **[[right-amount-of-specificity]] changes the measure.** JIT asks what the listener needs to *do*. In a story, the question becomes what they need to *see and feel*. And too little is also a failure: a vague summary gives the listener nothing to picture.
+
 ## Related pages
 
 - [[bluf-method]]
 - [[zoom-in-method]]
 - [[useful-vs-complete]]
+- [[pacing]]
+- [[right-amount-of-specificity]]

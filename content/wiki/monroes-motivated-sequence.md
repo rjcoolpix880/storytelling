@@ -1,10 +1,10 @@
-﻿# Monroe's Motivated Sequence
+# Monroe's Motivated Sequence
 
 **Summary**: A five-step organizational pattern for persuasive speeches that proposes a solution to a problem — Attention, Need, Satisfaction, Visualization, Action.
 
-**Sources**: [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/)
+**Sources**: [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-05-28
+**Last updated**: 2026-09-22
 
 ---
 
@@ -18,6 +18,9 @@ The mechanism: the speaker asks the audience to visualize the consequences of ac
 Call the audience's attention to a problem. Usually opens the speech.
 
 *Example:* "According to the New England Medical Journal in their 2018 June article, four out of five people do not get more than five quality hours of sleep per night."
+
+> [!conflict]- Disputed: other sources open with a scene or a hook, not a statistic
+> The PAST source grounds the scene first; Willis and Jenkins open with a high-stakes thought or an unanswered question. See [[debate-how-to-open]].
 
 ### 2. Establish the Need
 Show that there is a problem requiring action. Use statistics and evidence.
@@ -41,6 +44,9 @@ This is the "what could be" half of the [[what-is-vs-what-could-be]] oscillation
 ### 5. Call to Action
 Ask the audience for a specific commitment — sign a pledge, attend the workshop, make a donation.
 
+> [!conflict]- Disputed: Duarte issues the call early, not last
+> In Duarte's Audience's Journey, the "call to adventure" is step 3 of 12, near the start of the talk. Monroe saves the call to action for the final step. See [[audience-journey]].
+
 ## Ron Finley TED Talk as Illustration
 
 The source uses Ron Finley's "A guerilla gardener in South Central LA" as a worked example:
@@ -59,6 +65,8 @@ The source uses Ron Finley's "A guerilla gardener in South Central LA" as a work
 - Steps 1–2 (Attention + Need) match the [[scqa-framework]]'s Situation + Complication.
 - The Action step is the analog of [[five-line-story]]'s Result, but more directive — Monroe demands a specific commitment from the audience.
 - Establishing Need before Satisfaction mirrors the [[desire]] → conflict → resolution arc in narrative frameworks. Persuasion borrows narrative's engine.
+- The Need step is [[tension]] built into a persuasive speech: something uncertain and something at stake.
+- The Ron Finley example opens differently from the sleep example: with a concrete place ("I live in South Central...") rather than a statistic.
 
 ## Related pages
 
@@ -67,3 +75,8 @@ The source uses Ron Finley's "A guerilla gardener in South Central LA" as a work
 - [[duarte-resonate]]
 - [[bluf-method]]
 - [[five-line-story]]
+- [[tension]]
+- [[curiosity]]
+- [[how-to-tell-stories-better]]
+- [[audience-journey]]
+- [[debate-how-to-open]]

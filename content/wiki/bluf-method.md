@@ -2,9 +2,9 @@
 
 **Summary**: Three techniques for professional communication — BLUF, Just-In-Time Context, and Zoom-In — all centered on serving the listener's needs rather than the speaker's completeness.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-22
 
 ---
 
@@ -25,6 +25,9 @@ BLUF flips this. Lead with the **destination** (conclusion/recommendation), then
 - Ask: "We need about six weeks of dedicated cleanup... I'd like to propose pausing one feature track next quarter."
 
 Leading with the headline invites the listener to ask clarifying questions on their own terms, keeping them actively engaged.
+
+> [!conflict]- Disputed: Van Neistat and Jenkins say leading with the key fact ruins a story
+> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff until you're ready. See [[debate-answer-first-or-last]].
 
 The same instinct shows up in live delivery, not just written structure: Rob Willis makes the same case for cutting small talk and starting a talk with the point instead of an agenda — see [[cold-open]].
 
@@ -70,3 +73,6 @@ See also [[zoom-in-method]] for the full concept.
 - [[minto-pyramid-principle]]
 - [[scqa-framework]]
 - [[cold-open]]
+- [[curiosity]]
+- [[surprise]]
+- [[debate-answer-first-or-last]]

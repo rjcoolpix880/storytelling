@@ -2,9 +2,9 @@
 
 **Summary**: Mutually Exclusive and Collectively Exhaustive — Barbara Minto's rule for organizing the supporting data inside a [[minto-pyramid-principle]] argument so categories don't overlap and nothing is missed.
 
-**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid)
+**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-05-28
+**Last updated**: 2026-09-22
 
 ---
 
@@ -30,8 +30,11 @@ MECE forces a categorization that is both rigorous and analyzable. It is the ana
 
 MECE is a thinking discipline, not a presenting discipline. The audience does not need to see the MECE structure — they need to see the conclusions it produced. Showing the full taxonomy is the same failure mode as the technical-debt taxonomy in [[bluf-method]]: a complete explanation rather than a useful one. Use MECE behind the scenes; present only the insights it surfaces.
 
+The contrast with storytelling is sharp. MECE is exhaustive by design; storytelling detail is selective by design. Shannon Jenkins's [[right-amount-of-specificity]] picks a few anchors that help the listener see and feel a moment and leaves out everything else. Use MECE to organize what you know; use specificity to decide what you say.
+
 ## Related pages
 
 - [[minto-pyramid-principle]]
 - [[useful-vs-complete]]
 - [[scqa-framework]]
+- [[right-amount-of-specificity]]

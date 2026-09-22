@@ -2,9 +2,9 @@
 
 **Summary**: A technique for explaining complex topics by starting from shared understanding and layering in depth only as far as needed.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s)
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-04-23
+**Last updated**: 2026-09-22
 
 ---
 
@@ -42,8 +42,24 @@ Result: The listener has a working mental model for reading code and documentati
 
 Stop zooming the moment the listener has enough information to make the next decision. Going further is where over-explanation creeps back in. See [[jit-context]] for the underlying principle.
 
+## Not the Same as "Zooming In" on a Story Moment
+
+Shannon Jenkins also says to "zoom in" (see [[how-to-tell-stories-better]]), and the PAST framework is built on zooming into the [[five-second-moment]]. Same phrase, different meaning:
+
+| | Zoom-In Method (this page) | Zooming into a moment (Jenkins, PAST) |
+|---|---|---|
+| **Goal** | Understanding: a working mental model | Experience: the listener feels they're in the room |
+| **What you add** | Layers of explanation | Concrete scene detail: place, action, dialogue |
+| **Starting point** | Something the listener already knows | The moment where something changed |
+| **When to stop** | When they can make the next decision | When they can see and feel it (see [[right-amount-of-specificity]]) |
+
+What they share: both reject the high-level summary, and both stop before overload. The zoom-in method is for explaining; zooming into a moment is for storytelling.
+
 ## Related pages
 
 - [[bluf-method]]
 - [[jit-context]]
 - [[useful-vs-complete]]
+- [[five-second-moment]]
+- [[right-amount-of-specificity]]
+- [[how-to-tell-stories-better]]

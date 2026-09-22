@@ -1,10 +1,10 @@
-﻿# Belief vs. Confidence
+# Belief vs. Confidence
 
 **Summary**: Charisma comes from a speaker's genuine conviction, not from polish or rehearsed stage mechanics — audiences forgive rough delivery if they can feel real belief.
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-22
 
 ---
 
@@ -25,7 +25,20 @@ This is related to, but distinct from, [[truth-vs-facts]]:
 
 Both point to the same underlying idea: authenticity outperforms precision. Truth-vs-facts applies it to what is said; belief-vs-confidence applies it to how the speaker comes across while saying it.
 
+## A Related Idea: Competence and Warmth
+
+Shannon Jenkins makes a parallel argument (see [[competence-and-warmth]]): leaders over-rely on proving competence and neglect warmth, and a well-chosen personal story closes the gap. The two ideas share a message (looking impressive isn't what wins a room) but name different missing ingredients:
+
+| | Belief vs. Confidence | [[competence-and-warmth]] |
+|---|---|---|
+| **The trap** | Polish and rehearsed delivery | Credentials and expertise |
+| **What's missing** | Conviction about the idea | Visible humanity |
+| **Relationship to...** | The idea | The audience |
+
+In the wiki's reading, a speaker can have one without the other. Rosling's belief in his data was obvious, but conviction about an idea doesn't by itself make an audience feel they know the person. A personal story does that.
+
 ## Related pages
 
 - [[truth-vs-facts]]
 - [[sounding-smart]]
+- [[competence-and-warmth]]

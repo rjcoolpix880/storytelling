@@ -2,9 +2,9 @@
 
 **Summary**: A three-beat framework for simplifying an argument before building a presentation — the facts (What), why they matter (So What), and the action they call for (Now What).
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-10
+**Last updated**: 2026-09-22
 
 ---
 
@@ -28,7 +28,21 @@ Willis names a second option in the same breath: "Situation, Complication, Resol
 
 The difference in emphasis: SCQA is built to justify a specific answer to a specific complication (argument-shaped). What/So What/Now What is more general-purpose — it works for status updates and reflections that don't necessarily hinge on a single complication, as long as they end in an action.
 
+## Relationship to CART and "What It Meant"
+
+Shannon Jenkins's [[cart-framework]] (Context, Action, Result, Takeaway) is the story-shaped cousin of this structure:
+
+| What / So What / Now What | CART |
+|---|---|
+| What | Context + Action + Result |
+| So What | Takeaway (what it meant) |
+| Now What | Takeaway turned back to the audience's situation |
+
+Jenkins's central point, that a story must say [[what-happened-vs-what-it-meant]], is the *So What* beat applied to storytelling. Both frameworks warn against the same failure: stopping at the facts and leaving the audience to work out why they matter.
+
 ## Related pages
 
 - [[scqa-framework]]
 - [[sounding-smart]]
+- [[cart-framework]]
+- [[what-happened-vs-what-it-meant]]
