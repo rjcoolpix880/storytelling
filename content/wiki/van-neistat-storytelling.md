@@ -2,9 +2,11 @@
 
 **Summary**: A video essay on the essential elements of a great story — surprise, structure, and the primacy of human truth over factual completeness.
 
+**Lenses**: [[storytelling]]
+
 **Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 
@@ -38,7 +40,7 @@ Neistat illustrates the contrast with two tellings of the same Bert Kreischer st
 > "Isla was in the hospital and Whitney Houston was in the waiting room, and then she goes into boring detail of all of the hospital visit..."
 
 > [!conflict]- Disputed: BLUF and Minto say to lead with the key point
-> In professional communication, the BLUF source and Barbara Minto recommend exactly what the amateur does here: put the conclusion first. See [[debate-answer-first-or-last]].
+> In professional communication, the BLUF source and Barbara Minto recommend exactly what the amateur does here: put the conclusion first. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 This is the classic failure mode described in [[useful-vs-complete]]: delivering everything rather than crafting a targeted experience. The amateur's overloaded hospital itinerary is a real-world example of the patterns catalogued in [[story-killers]]. Shannon Jenkins names the opposite failure too, the vague summary. The goal is the [[right-amount-of-specificity]], not the least detail.
 

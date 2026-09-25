@@ -2,9 +2,11 @@
 
 **Summary**: The listener's wish to *know* something: an unanswered question, a withheld piece of information, or a destination they want to reach. It is different from tension (caring how things turn out) and surprise (the unexpected answer).
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -21,8 +23,15 @@ Give the audience what they need to keep following you, but don't give them the 
 - **Don't:** *"I grew up playing darts with my father, so when this guy challenged me to a game, I decided to play dumb."* The trick is explained before it's performed.
 - **Do:** Ted asks the question nobody asked (*"Have you played a lot of darts, Ted?"*), lets it hang, and answers only on the final throw.
 
+Jenkins's written guide (see [[speak-better-than-99-percent]]) gives a tighter version of the same pair:
+
+- **Don't (Instead of):** *"I grew up playing darts with my father, so when someone challenged me to a game, I knew I had a good chance of winning."*
+- **Do (Open with something that makes them want to know how or why):** *"People have underestimated me my entire life. And for years, I couldn't understand why."*
+
+Her phrasing of the rule there: give people what they need to follow you, "but save the payoff until it has earned its moment."
+
 > [!conflict]- Disputed: BLUF and Minto say to lead with the conclusion
-> The BLUF source and Barbara Minto argue the answer should come first, because busy listeners need it to act and a clear headline invites their questions. See [[debate-answer-first-or-last]].
+> The BLUF source and Barbara Minto argue the answer should come first, because busy listeners need it to act and a clear headline invites their questions. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 Withholding is not the same as being vague. Ted gives plenty of concrete detail along the way (the drive to school, the quote on the wall). He holds back only the *answer*. See [[right-amount-of-specificity]].
 
@@ -72,3 +81,4 @@ How they relate:
 - [[what-is-vs-what-could-be]]
 - [[debate-answer-first-or-last]]
 - [[debate-how-to-open]]
+- [[speak-better-than-99-percent]]

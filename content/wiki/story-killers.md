@@ -2,9 +2,11 @@
 
 **Summary**: Six meta-phrases that undermine a story before it starts, each with a direct antidote in the PAST framework.
 
-**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -24,6 +26,15 @@ These phrases signal to the listener that the teller lacks confidence in the sto
 
 > [!conflict]- Disputed: Willis and Jenkins open with a hook, not Place ("I have a story" row)
 > Willis says to open with a high-stakes thought or question; Jenkins says to open with an unanswered question and hold back the setup. See [[debate-how-to-open]].
+
+## Beyond Stories: Hedges That Undercut Authority
+
+Two of these phrases show up on Shannon Jenkins's list of habits that undercut a leader's authority (see [[speak-like-a-leader]]):
+
+- **"Does that make sense?"** is on both lists. PAST says it breaks a story's immersion; Jenkins says it gives people little reason to trust your judgement.
+- **"I'll be brief / I'm not a good storyteller"** is a pre-emptive apology, the same move as Jenkins's "This might be a silly question..." and "Sorry, can I just jump in..."
+
+The shared idea: phrases that signal doubt make the listener doubt too. See [[strong-opinions-loosely-held]] and [[executive-presence]].
 
 ## Connection to PAST
 
@@ -48,3 +59,6 @@ The fix for "I'll be brief" is to *be* brief by starting with Action. [[pacing]]
 - [[how-to-tell-stories-better]]
 - [[debate-state-the-moral]]
 - [[debate-how-to-open]]
+- [[strong-opinions-loosely-held]]
+- [[executive-presence]]
+- [[speak-like-a-leader]]

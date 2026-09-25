@@ -1,10 +1,12 @@
 ﻿# Useful vs. Complete
 
-**Summary**: The cross-cutting insight running through all three sources in this wiki — a complete explanation and a useful one are rarely the same thing.
+**Summary**: The cross-cutting insight running through most sources in this wiki — a complete explanation and a useful one are rarely the same thing.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]], [[executive]], [[technical]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -36,10 +38,11 @@ The result: the audience receives more information than they can use, and the mo
 | Jenkins — Helicopter view | Summarizing ("there was resistance") instead of showing the moment | Zoom into a specific scene; see [[five-second-moment]] |
 | Jenkins — Right amount of specificity | Too vague *or* too much detail | A few anchors that help the listener see and feel; see [[right-amount-of-specificity]] |
 | Jenkins — Pacing | Giving every part of a story equal weight | Compress the bridges, slow down for key moments; see [[pacing]] |
+| Jenkins — Rambling and overexplaining | Answering a simple question with the full history ("a status update that starts in 2023") | Lead with the main point, then only the context people need; "speak less to say more." See [[executive-presence]] |
 
 ## The Underlying Principle
 
-All three sources converge on the same idea: **the listener's experience is the measure of success, not the completeness of the information transferred.**
+The sources converge on the same idea: **the listener's experience is the measure of success, not the completeness of the information transferred.**
 
 Note that [[truth-vs-facts]] addresses a related but distinct problem: not *how much* to say, but *how precisely to say it*. Useful-vs-complete is about omitting irrelevant information; truth-vs-facts is about allowing minor factual details to flex in service of emotional truth.
 
@@ -60,3 +63,5 @@ In storytelling, this means reliving > reporting. In professional communication,
 - [[right-amount-of-specificity]]
 - [[pacing]]
 - [[how-to-tell-stories-better]]
+- [[executive-presence]]
+- [[speak-like-a-leader]]

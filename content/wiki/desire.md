@@ -2,9 +2,11 @@
 
 **Summary**: The character's stated goal in a story — the element that sparks audience curiosity and gives conflict something to threaten.
 
+**Lenses**: [[storytelling]]
+
 **Sources**: [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

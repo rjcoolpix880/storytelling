@@ -2,9 +2,11 @@
 
 **Summary**: A communication strategy of providing only the information a listener needs to take their next step — no more, no less.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[executive]], [[technical]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -38,6 +40,17 @@ The PM now has exactly what they need to have a conversation with stakeholders.
 
 JIT Context pairs naturally with [[bluf-method#BLUF: Bottom Line Upfront|BLUF]] — lead with the conclusion, then use JIT to decide how much of the journey to share. The [[zoom-in-method]] is a structured way to deliver JIT context layer by layer.
 
+## JIT in a Meeting
+
+Shannon Jenkins (see [[speak-like-a-leader]]) names the everyday version of front-loading as a habit that costs leaders authority: rambling and overexplaining. It sounds like:
+
+- "So, to give you some background..."
+- "So you understand the context, let me explain..."
+- A status update that starts in 2023
+- Making the same point three different ways
+
+Her fix is JIT paired with BLUF: lead with your main point, then add only the context people need to understand it. See [[executive-presence]].
+
 ## JIT Inside a Story
 
 Shannon Jenkins's storytelling lessons apply the same instinct inside a story, with two nuances:
@@ -52,3 +65,5 @@ Shannon Jenkins's storytelling lessons apply the same instinct inside a story, w
 - [[useful-vs-complete]]
 - [[pacing]]
 - [[right-amount-of-specificity]]
+- [[speak-like-a-leader]]
+- [[executive-presence]]

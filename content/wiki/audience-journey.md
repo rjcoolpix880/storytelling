@@ -2,9 +2,11 @@
 
 **Summary**: Nancy Duarte's adaptation of the hero's journey for presentations — the audience is the protagonist and the presenter is the mentor, not the hero.
 
+**Lenses**: [[storytelling]], [[executive]]
+
 **Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

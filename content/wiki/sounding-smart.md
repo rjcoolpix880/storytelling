@@ -2,9 +2,11 @@
 
 **Summary**: Rob Willis's argument that persuasion comes from clarity, belief, and continuously earned attention — not from demonstrating how much you know.
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]], [[executive]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -42,6 +44,8 @@ Five concrete techniques:
 - **The four-second rule** — when a conversation turns tense or you're asked a hard question, pause four full seconds before responding. It prevents defensive reactions and projects quiet confidence.
 - **Ditch fix-it mode** — stop formulating your response while the other person is still talking. Listen with curiosity, not to wait for your turn.
 
+The four-second rule and ditching fix-it mode are both tools for composure and listening, two things Shannon Jenkins ties to executive presence. Her advice to stop waiting for permission to speak pairs with fix-it mode: speak up when your point is relevant, after you've actually heard the discussion. See [[executive-presence]].
+
 ## Five Actionable Steps for Your Next Meeting
 
 1. **Define a realistic objective** — aim for a concrete next step (e.g., a follow-up meeting), not an outsized outcome on the spot.
@@ -63,3 +67,4 @@ Five concrete techniques:
 - [[five-line-story]]
 - [[bluf-method]]
 - [[competence-and-warmth]]
+- [[executive-presence]]

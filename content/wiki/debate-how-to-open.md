@@ -2,9 +2,11 @@
 
 **Summary**: Every source says to skip the warm-up, but they disagree on what replaces it: grounding the scene (PAST, five-line story), a hook or question (Willis, Jenkins), or a problem-focused attention-getter (Monroe).
 
-**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/)
+**Lenses**: [[storytelling]], [[executive]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 **Type**: Different emphasis
 
@@ -32,6 +34,8 @@ No source defends a warm-up. PAST lists "I have a story to tell you" as a [[stor
   - **Don't:** "When I was 10 years old, I used to play darts with my dad..." *(Note: this is a when-first opening, the kind PAST recommends.)*
   - **Do:** "Rupert, guys have underestimated me my entire life, and for years I never understood why."
   - **Unexpected opening:** Asked about Earl's death, Ted opens with being attacked by a dog at age 3.
+  - **From her written guide** (see [[speak-better-than-99-percent]]): **Instead of** "I grew up playing darts with my father, so when someone challenged me to a game, I knew I had a good chance of winning," **open with** "People have underestimated me my entire life. And for years, I couldn't understand why."
+  - **But also from the guide:** her CART Context step asks "Who? Where? What is happening?" and her example opens with a time and a place: "Three weeks before launch, I'm sitting in a meeting with our biggest customer."
 
 ## Position 3: Monroe — call attention to the problem
 
@@ -40,6 +44,8 @@ Step 1 of the motivated sequence is to get attention by pointing at the problem.
 ## Where the sharpest clash is
 
 Jenkins's "Don't" (*"When I was 10 years old..."*) is close to what PAST's rule produces: a time marker in the first sentence. PAST would say the time grounds the scene. Jenkins would say it gives away the setup and kills curiosity.
+
+Jenkins's written guide narrows the clash. Her CART Context line is a where-and-when opening, very close to PAST's rule. What she objects to is background that gives away the payoff (the darts history), not grounding as such.
 
 ## The wiki's view (optional)
 
@@ -55,4 +61,5 @@ Some openings do both. Jenkins's own workplace examples ground the scene *and* h
 - [[cold-open]] — main claim
 - [[curiosity]] — "Ways to Create Curiosity" section
 - [[how-to-tell-stories-better]] — do/don't contrast 1
+- [[speak-better-than-99-percent]] — do/don't contrast 1
 - [[monroes-motivated-sequence]] — Get Attention step

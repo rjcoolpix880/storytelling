@@ -2,9 +2,11 @@
 
 **Summary**: Drop the audience straight into a high-stakes thought or question instead of warming up with small talk or introductions.
 
+**Lenses**: [[storytelling]], [[executive]]
+
 **Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

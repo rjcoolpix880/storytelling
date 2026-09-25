@@ -2,9 +2,11 @@
 
 **Summary**: The PAST source says announcing the moral kills a story; Shannon Jenkins says stating what the story meant is its most important step.
 
-**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 **Type**: Direct contradiction
 
@@ -30,6 +32,12 @@ Don't leave the audience wondering why you told the story. Tell them what it *me
 
 **Why:** Events by themselves are just history. A leader tells a story to make a point, and an audience that doesn't get the point got nothing.
 
+In her written guide (see [[speak-better-than-99-percent]]), the takeaway follows from a rule set before the story is even chosen: **"The story serves the message."** Never leave people wondering, "Why did you tell me that?" See [[choosing-the-right-story]].
+
+**Example (from the guide):**
+- **Avoid:** "That was a really important experience for me."
+- **Try:** "That experience taught me that if we wait until an opportunity feels completely safe and obvious, we've probably waited too long."
+
 **Example (Ted Lasso on Hank):**
 - **Don't:** "And then a year later we had to put Hank to sleep, and that was that."
 - **Do:** The thing that once made him cry just knowing it existed became the thing that made him cry knowing it was gone. Such things come into our lives to get us from one place to a better one. He hopes they helped Earl do just that.
@@ -53,3 +61,4 @@ The [[five-line-story]] source says only that the Result should satisfy the audi
 - [[how-to-tell-stories-better]] — lesson 7 (callout under the Seven Lessons table)
 - [[what-happened-vs-what-it-meant]] — the core claim
 - [[cart-framework]] — the Takeaway step
+- [[speak-better-than-99-percent]] — technique 7 (callout under the Seven Techniques table)

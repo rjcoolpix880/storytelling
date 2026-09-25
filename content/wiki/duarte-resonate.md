@@ -2,9 +2,11 @@
 
 **Summary**: Nancy Duarte's three-part toolkit for building persuasive presentations — the Audience's Journey, the SCQA story template, and the Sparkline — synthesized in Tomasz Tunguz's review of her book *Resonate*.
 
+**Lenses**: [[storytelling]], [[executive]]
+
 **Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 
@@ -29,7 +31,7 @@ The remaining steps mirror the rest of the classic hero's arc. Duarte demonstrat
 
 ## 2. The Story Template — SCQA
 
-A MadLibs-style fill-in-the-blank scaffold for the arc of the talk: Situation, Complication, Question, Answer. The same four beats Barbara Minto uses inside [[minto-pyramid-principle]]. Two independent sources converging on this structure suggests it is doing real work.
+A MadLibs-style fill-in-the-blank scaffold for the arc of the talk: Situation, Complication, Question, Answer. The same four beats Barbara Minto uses inside [[minto-pyramid-principle]]. Independent sources converging on this structure (Minto, and Rob Willis in a three-beat form) suggests it is doing real work.
 
 Duarte's warning: complexity kills presentations. The template forces simplification. See [[scqa-framework]] for the full concept.
 

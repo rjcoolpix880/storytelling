@@ -2,13 +2,17 @@
 
 **Summary**: Shannon Jenkins uses two *Ted Lasso* scenes to show seven moves that turn a report into a story (curiosity, tension, zooming in, pacing, the unexpected, warmth, and a takeaway), plus the CART structure that ties them together.
 
+**Lenses**: [[storytelling]]
+
 **Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 
 Shannon Jenkins is a leadership and storytelling trainer (clients include Nestlé, Nespresso, and Google). Her audience is leaders, and her framing is practical: storytelling is how a leader disarms skepticism, makes an idea memorable, and moves people to act.
+
+Jenkins also published a four-page written companion to this video, with new workplace examples and a section on choosing the right story. See [[speak-better-than-99-percent]].
 
 ## Core Thesis
 
@@ -102,7 +106,7 @@ Jenkins calls the meaning beat "perhaps the most important part of the story."
 - **Why:** The weak version explains the trick before performing it. The controlled version makes the audience want the answer before giving it. → [[curiosity]]
 
 > [!conflict]- Disputed: BLUF and Minto say to lead with the conclusion
-> The BLUF source and Barbara Minto argue the answer should come first so the listener can act. See [[debate-answer-first-or-last]].
+> The BLUF source and Barbara Minto argue the answer should come first so the listener can act. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 ### 4. Vague or overloaded vs. the right amount of detail
 - **Don't:** A vague summary (*"Yes, I played darts a lot growing up"*) or a sprawling backstory.
@@ -170,3 +174,5 @@ None in the video. Jenkins mentions an external guide and course but gives no ex
 - [[debate-surprise-placement]]
 - [[debate-answer-first-or-last]]
 - [[debate-how-to-open]]
+- [[speak-better-than-99-percent]]
+- [[choosing-the-right-story]]

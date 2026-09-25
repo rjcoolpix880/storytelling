@@ -2,9 +2,11 @@
 
 **Summary**: A minimal five-step scaffold for any story — Situation, Desire, Conflict, Change, Result — with each line serving a distinct structural function.
 
-**Sources**: [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -37,12 +39,13 @@ Conflict is what makes the [[surprise]] land — it builds the emotional stakes 
 ### 4. Change — What happens that shifts something?
 This is the pivotal beat: the moment of growth, reversal, or realization.
 
-Under three different names, every source in this wiki points to the same beat:
+Under different names, the storytelling sources in this wiki point to the same beat:
 - [[five-second-moment]] (PAST framework)
 - [[surprise]] (Van Neistat)
 - Change (this source)
+- "One Change" in Shannon Jenkins's test for a business story: One Person, One Moment, One Change (see [[choosing-the-right-story]])
 
-All three agree: this is the core of a story. Everything before it exists to deliver it.
+All of them agree: this is the core of a story. Everything before it exists to deliver it.
 
 ### 5. Result — How does it end?
 Resolve the story in a way that satisfies the listener. The source says the Result should "tie everything together." Tying the outcome back to the desire is one natural way to do that.
@@ -97,3 +100,4 @@ Jenkins's [[cart-framework]] (Context, Action, Result, Takeaway) covers similar 
 - [[what-happened-vs-what-it-meant]]
 - [[debate-how-to-open]]
 - [[debate-state-the-moral]]
+- [[choosing-the-right-story]]

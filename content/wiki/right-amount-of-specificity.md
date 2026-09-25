@@ -2,9 +2,11 @@
 
 **Summary**: Give just enough concrete detail for the listener to see and feel the moment (a few well-chosen anchors) instead of either a vague summary or a flood of backstory.
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -24,6 +26,8 @@ Shannon Jenkins: you don't need loads of detail, just the right amount to help t
 One sentence, four concrete anchors (**when:** Sunday afternoons; **where:** a sports bar; **who:** his father; **how long:** age 10 to 16), then one emotional anchor (his father's death). That's enough for the listener to see a ritual between a father and son, and to feel its loss, without slowing the story down.
 
 **What makes a good detail:** markers of time, place, ritual, and relationship, each doing emotional or visual work. A useful test (a wiki suggestion): for each detail, ask whether it helps the listener *see* something or *feel* something. If neither, cut it.
+
+In her written guide (see [[speak-better-than-99-percent]]), Jenkins's phrase is **small amounts**: use small amounts of dialogue, thought, reaction, and **selective detail**. Her example of a selective detail is a single time marker: *"It was 6:30 in the morning when the email arrived."* One detail sets the scene; the rest can stay out.
 
 ## The Nuance: Same Words, Different Job
 
@@ -54,3 +58,4 @@ Ted's winning line also starts with "Sunday afternoon." The difference isn't the
 - [[zoom-in-method]]
 - [[truth-vs-facts]]
 - [[mece-framework]]
+- [[speak-better-than-99-percent]]

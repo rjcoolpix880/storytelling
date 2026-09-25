@@ -2,9 +2,11 @@
 
 **Summary**: A five-step organizational pattern for persuasive speeches that proposes a solution to a problem — Attention, Need, Satisfaction, Visualization, Action.
 
+**Lenses**: [[executive]]
+
 **Sources**: [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

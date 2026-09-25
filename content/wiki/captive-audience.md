@@ -2,9 +2,11 @@
 
 **Summary**: Treat every audience as one that could walk away at any moment — attention must be earned continuously, not assumed just because people are seated in the room.
 
+**Lenses**: [[storytelling]], [[executive]]
+
 **Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

@@ -2,9 +2,11 @@
 
 **Summary**: Leaders tend to prove competence at the expense of warmth. A well-chosen personal (not private) story shows the human behind the expertise, so people can trust, connect with, and follow them.
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]], [[executive]]
 
-**Last updated**: 2026-09-22
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -18,6 +20,24 @@ Leaders often overemphasize their competence and credibility and neglect the hum
 - **Warmth:** feeling they can trust you, connect with you, and follow your direction.
 
 A leader who only shows competence is respected but not followed.
+
+## What a Personal Story Can Be
+
+In her written guide (see [[speak-better-than-99-percent]]), Jenkins renames this lesson "Make it personal" and lowers the bar. A personal story can simply be:
+
+- a conversation you still remember
+- a mistake you made
+- a moment you changed your mind
+- a customer who surprised you
+- something you noticed that changed how you lead
+
+She adds a test: use your experience **as a bridge to the audience**. "The strongest personal stories contain something they can recognise in their own lives, work or decisions." A personal story the audience can't see themselves in shows the human but doesn't connect. See also [[choosing-the-right-story]] (look inward).
+
+## The Opposite Failure: Undercutting Competence
+
+Jenkins also describes the reverse problem (see [[speak-like-a-leader]]): leaders who undercut their own authority with hedges ("I'm not sure, but...", "This might be a silly question..."), silence in meetings, and rambling answers. Those habits leave people with "little reason to trust your judgement."
+
+The wiki's reading: hedging can feel like humility or warmth, but it costs competence without building connection. Warmth comes from a well-chosen personal story; competence comes from stating your view clearly. See [[executive-presence]] and [[strong-opinions-loosely-held]].
 
 ## Personal, Not Private
 
@@ -57,3 +77,8 @@ The darts payoff shows competence and warmth in the same sentence. "Every Sunday
 - [[audience-journey]]
 - [[what-happened-vs-what-it-meant]]
 - [[right-amount-of-specificity]]
+- [[speak-better-than-99-percent]]
+- [[choosing-the-right-story]]
+- [[executive-presence]]
+- [[strong-opinions-loosely-held]]
+- [[speak-like-a-leader]]

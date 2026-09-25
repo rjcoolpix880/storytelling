@@ -2,9 +2,11 @@
 
 **Summary**: Vary the speed of a story. Slow down around the moments you want the audience to experience, and speed through information they only need in order to follow along.
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -20,6 +22,12 @@ In the press conference about Earl, Ted slows almost to a crawl for being attack
 - **Don't:** Tell every stage at the same speed, giving bridge steps the same weight as turning points.
 - **Do:** Linger on the attack and the reflection; fast-forward through the years in between.
 - **Why:** Pace tells the audience what matters. Uniform pace tires listeners and dilutes the emotion.
+
+## A Workplace Version
+
+Jenkins's written guide (see [[speak-better-than-99-percent]]) gives the business-story version: *"You might spend 30 seconds describing one crucial conversation and then cover the following six months in one sentence."* That contrast "creates rhythm and keeps the story moving."
+
+The guide also says when the helicopter view is allowed: for the fast parts. Slow down around the moment with dialogue, thought, reactions, and specific details; "then speed up through the information we simply need to know; that's when the helicopter view is fine." So the helicopter view isn't banned, it's kept out of the moment. See [[five-second-moment]].
 
 ## How to Decide What Gets Slowed Down
 
@@ -77,3 +85,4 @@ Jenkins's pacing is mainly about how much space each part of the story gets. Del
 - [[duarte-resonate]]
 - [[18-minute-rule]]
 - [[captive-audience]]
+- [[speak-better-than-99-percent]]

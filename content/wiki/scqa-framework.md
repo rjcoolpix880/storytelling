@@ -2,9 +2,11 @@
 
 **Summary**: A four-beat scaffold for structuring an argument or presentation — Situation, Complication, Question, Answer — used independently by Minto and Duarte to organize the opening of any persuasive communication.
 
+**Lenses**: [[storytelling]], [[executive]]
+
 **Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 
@@ -22,7 +24,7 @@ Two independent sources — Barbara Minto's [[minto-pyramid-principle]] and Nanc
 SCQA turns a bare claim into a mini-narrative. By the time the Answer arrives, the audience has internalized the question — so the answer reads as a *resolution* rather than an *assertion*. This is more persuasive than leading with the conclusion alone, because the audience experiences the need for the answer before hearing it.
 
 > [!conflict]- Disputed: BLUF and Minto say the answer should come first
-> The BLUF source and Barbara Minto argue that leading with the conclusion is more effective, and Minto herself places SCQA's Answer first (see the worked example below). See [[debate-answer-first-or-last]].
+> The BLUF source and Barbara Minto argue that leading with the conclusion is more effective, and Minto herself places SCQA's Answer first (see the worked example below). This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 ## Worked Example — From the Minto Source
 

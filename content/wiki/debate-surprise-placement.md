@@ -2,9 +2,11 @@
 
 **Summary**: Van Neistat says the surprise is saved for the end; Shannon Jenkins also uses the unexpected at the start and in the middle of a story.
 
-**Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 **Type**: Different emphasis
 
@@ -31,6 +33,8 @@ Jenkins's fifth lesson is to introduce something unexpected: "a twist, a surpris
 - **Mid-story twist:** After describing his fear of dogs, he reveals that the neglected dog he later fed, walked, and adopted was Hank, the same dog that bit him.
 - **Ending:** Not a new fact but the meaning: what Hank's life and death taught him.
 
+Her written guide (see [[speak-better-than-99-percent]]) states the principle behind this: "Predictability kills attention. A surprising opening, detail, decision or twist makes people mentally re-engage." Among the places to look for it: "new information changed the meaning of what came before."
+
 ## Where they agree
 
 Both say to withhold the payoff and control what the listener knows and when. Jenkins's darts story saves its payoff (Ted's history with his father) for the final throw, exactly as Van Neistat would.
@@ -46,3 +50,4 @@ A story can have more than one reveal. Van Neistat's rule may be best read as "s
 - [[surprise]] — "Placement Is Everything" section
 - [[van-neistat-storytelling]] — Structure section
 - [[how-to-tell-stories-better]] — lesson 5 (callout under the Seven Lessons table)
+- [[speak-better-than-99-percent]] — technique 5 (callout under the Seven Techniques table)

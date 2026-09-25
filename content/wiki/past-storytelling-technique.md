@@ -2,9 +2,11 @@
 
 **Summary**: A four-pillar framework for telling vivid, emotionally resonant stories by zooming into a single moment of change.
 
+**Lenses**: [[storytelling]]
+
 **Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

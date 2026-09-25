@@ -2,9 +2,11 @@
 
 **Summary**: The defining element that separates a story from a report — the quality of a story is directly proportional to the impact of its surprise.
 
-**Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -24,7 +26,7 @@ The Bert Kreischer example in [[van-neistat-storytelling]] makes this concrete: 
 > Shannon Jenkins uses an unexpected opening and a mid-story twist that restarts curiosity (see the next section). See [[debate-surprise-placement]].
 
 > [!conflict]- Disputed: BLUF and Minto say to lead with the key point
-> In professional communication, the BLUF source and Barbara Minto argue for putting the conclusion first. See [[debate-answer-first-or-last]].
+> In professional communication, the BLUF source and Barbara Minto argue for putting the conclusion first. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 ## Forced Reinterpretation: A Mid-Story Surprise
 
@@ -33,6 +35,18 @@ Shannon Jenkins (see [[how-to-tell-stories-better]]) describes a more advanced t
 In Jenkins's telling, the twist **restarts [[curiosity]]**: once the assumption collapses, the audience no longer knows where the story is going. The story then continues to a final beat of meaning rather than a new fact (see [[what-happened-vs-what-it-meant]]). This is where she parts ways with Van Neistat's "save it for the end"; see the conflict note above.
 
 Jenkins also names a second use of the unexpected: the **unexpected opening**, which starts as far as possible from what the audience expects (a tribute to a dog that opens with a dog attack). This uses surprise to create curiosity at the start rather than to resolve it at the end. See [[cold-open]].
+
+### Where to Find the Unexpected
+
+Jenkins's written guide (see [[speak-better-than-99-percent]]) opens this lesson with "Predictability kills attention" and lists moments to look for in your own material:
+
+- someone responded differently than expected
+- your assumption turned out to be wrong
+- the obvious solution failed
+- something small changed your perspective
+- new information changed the meaning of what came before
+
+The last item is forced reinterpretation, the technique described above.
 
 ## Designing for Surprise
 
@@ -65,3 +79,4 @@ Surprise works because the listener expected one thing and got another. The same
 - [[how-to-tell-stories-better]]
 - [[debate-surprise-placement]]
 - [[debate-answer-first-or-last]]
+- [[speak-better-than-99-percent]]

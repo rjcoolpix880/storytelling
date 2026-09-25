@@ -2,9 +2,11 @@
 
 **Summary**: A technique for explaining complex topics by starting from shared understanding and layering in depth only as far as needed.
 
+**Lenses**: [[technical]]
+
 **Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

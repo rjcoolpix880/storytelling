@@ -2,9 +2,11 @@
 
 **Summary**: Three techniques for professional communication — BLUF, Just-In-Time Context, and Zoom-In — all centered on serving the listener's needs rather than the speaker's completeness.
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[executive]], [[technical]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -27,9 +29,11 @@ BLUF flips this. Lead with the **destination** (conclusion/recommendation), then
 Leading with the headline invites the listener to ask clarifying questions on their own terms, keeping them actively engaged.
 
 > [!conflict]- Disputed: Van Neistat and Jenkins say leading with the key fact ruins a story
-> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff until you're ready. See [[debate-answer-first-or-last]].
+> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff until you're ready. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 The same instinct shows up in live delivery, not just written structure: Rob Willis makes the same case for cutting small talk and starting a talk with the point instead of an agenda — see [[cold-open]].
+
+**The meeting version.** Shannon Jenkins (see [[speak-like-a-leader]]) describes the bottom-up habit in everyday meetings: someone asks a simple question and you give them the full history. "So, to give you some background..." or a status update that starts in 2023. Her fix is BLUF plus JIT in one line: lead with your main point, then add only the context people need to understand it. "Speak less to say more." For a decision, her one-sentence BLUF is *"There are three options. I recommend B, and here's why."* See [[strong-opinions-loosely-held]] and [[executive-presence]].
 
 ## Just-In-Time (JIT) Context
 
@@ -76,3 +80,6 @@ See also [[zoom-in-method]] for the full concept.
 - [[curiosity]]
 - [[surprise]]
 - [[debate-answer-first-or-last]]
+- [[speak-like-a-leader]]
+- [[executive-presence]]
+- [[strong-opinions-loosely-held]]

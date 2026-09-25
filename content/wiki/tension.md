@@ -2,9 +2,11 @@
 
 **Summary**: A reason to care what happens next: something uncertain plus something at stake. It doesn't need drama. At work, a small unresolved question with real consequences is enough.
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -16,6 +18,13 @@ Jenkins's key point for professional settings: tension doesn't mean somebody is 
 
 - **Don't:** *"We realized something needed to change, there was a lot of resistance, but eventually we found a solution."* The outcome is given away and the stakes are abstract.
 - **Do:** *"Three weeks before launch, my biggest customer looked across the table at me and said, 'This is never going to work.'"* A deadline (uncertain), the biggest customer (stakes), and no resolution yet.
+
+In her written guide (see [[speak-better-than-99-percent]]), Jenkins labels this pair **Reporting vs. Story** and shortens the Don't to one line: *"There was a lot of resistance to the launch."* She defines tension there simply as uncertainty, "something your audience now wants resolved," and lists the kind of questions it plants:
+
+- *Will this work?*
+- *Will the client say yes?*
+- *Were we wrong?*
+- *What happens next?*
 
 ## The Nuance: Tension vs. Curiosity
 
@@ -57,3 +66,4 @@ This is a wiki synthesis, not a point from the sources. Because tension only nee
 - [[duarte-resonate]]
 - [[van-neistat-storytelling]]
 - [[truth-vs-facts]]
+- [[speak-better-than-99-percent]]

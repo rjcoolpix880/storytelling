@@ -2,9 +2,11 @@
 
 **Summary**: A report says what happened; a story also says what it meant. Shannon Jenkins calls this the most important move, the one that turns a personal memory into a message for the listener.
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k)
+**Lenses**: [[storytelling]]
 
-**Last updated**: 2026-09-22
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -18,6 +20,21 @@ Jenkins's seventh lesson (see [[how-to-tell-stories-better]]): don't leave the a
 - **Don't (what happened):** *"And then a year later we had to put Hank to sleep, and that was that."*
 - **Do (what it meant):** Ted points out that the dog that once made him cry from fear became the dog that made him cry from grief, and draws a broader idea from it: the things that come into our lives help us get from one place to a better one. Then he brings it back to the room: he hopes they helped Earl do the same.
 - **Why:** Events by themselves are just history. The meaning is what turns a private memory into something useful to the listener.
+
+## A Workplace Example
+
+Jenkins's written guide (see [[speak-better-than-99-percent]]) gives two questions for finding the meaning:
+
+1. *What did I believe before this happened?*
+2. *What did I understand afterwards?*
+
+Then turn that insight toward your audience.
+
+- **Don't (Avoid):** *"That was a really important experience for me."*
+- **Do (Try):** *"That experience taught me that if we wait until an opportunity feels completely safe and obvious, we've probably waited too long."*
+- **Why:** The first version says the story mattered to the teller. The second says what it means, in a form the audience can apply to their own decisions.
+
+The guide also explains why the meaning can't be skipped: its first rule is "the story serves the message." If the story was chosen to make a point, the ending is where the point lands. See [[choosing-the-right-story]].
 
 ## Three Definitions of "Report"
 
@@ -52,3 +69,5 @@ These don't compete. A full story arguably needs all three: a moment you can see
 - [[pacing]]
 - [[homework-for-life]]
 - [[debate-state-the-moral]]
+- [[speak-better-than-99-percent]]
+- [[choosing-the-right-story]]

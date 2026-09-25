@@ -2,9 +2,11 @@
 
 **Summary**: Mutually Exclusive and Collectively Exhaustive — Barbara Minto's rule for organizing the supporting data inside a [[minto-pyramid-principle]] argument so categories don't overlap and nothing is missed.
 
+**Lenses**: [[executive]], [[technical]]
+
 **Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

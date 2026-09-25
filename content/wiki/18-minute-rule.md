@@ -2,9 +2,11 @@
 
 **Summary**: Cognitive fatigue sets in around the 18-minute mark of any presentation — the reason TED Talks are capped there — so a talk must end, shift energy, or invite participation before that wall hits.
 
+**Lenses**: [[storytelling]], [[executive]]
+
 **Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 

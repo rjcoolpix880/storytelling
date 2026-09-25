@@ -2,9 +2,11 @@
 
 **Summary**: The oscillation between the present and a possible future is the underlying engine of persuasive communication — named explicitly by Duarte, executed as discrete steps by Monroe, and implicit in every story's desire/conflict structure.
 
-**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[storytelling]], [[executive]]
 
-**Last updated**: 2026-09-22
+**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -53,6 +55,8 @@ The present-vs-future gap in persuasion is mostly an outcome gap (tension): will
 - **Return to the gap repeatedly.** Each return is an opportunity to reinforce stakes.
 - **Make the gap concrete.** Abstract problems and abstract futures don't pull the audience in. Specifics on both sides do.
 
+**Returning isn't repeating (wiki synthesis).** Shannon Jenkins lists "making the same point three different ways" as a form of rambling (see [[executive-presence]]). That doesn't cut against Duarte: Jenkins is describing an answer in a meeting, and each of Duarte's returns to the gap brings new material across a whole presentation.
+
 ## Related pages
 
 - [[duarte-resonate]]
@@ -64,3 +68,4 @@ The present-vs-future gap in persuasion is mostly an outcome gap (tension): will
 - [[curiosity]]
 - [[tension]]
 - [[how-to-tell-stories-better]]
+- [[executive-presence]]

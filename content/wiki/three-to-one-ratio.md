@@ -2,9 +2,11 @@
 
 **Summary**: Budget presentations at roughly three parts discussion to one part monologue — a 30-minute meeting should get about five minutes of high-level story and the rest as dialogue.
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Lenses**: [[executive]]
 
-**Last updated**: 2026-09-22
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+
+**Last updated**: 2026-09-25
 
 ---
 
@@ -15,6 +17,10 @@ Rob Willis's fifth actionable step: follow a 3:1 ratio of discussion to presenta
 This turns a presentation from a monologue the decision-maker sits through into a process they participate in — inviting them to draw out the details they actually care about, rather than the speaker guessing what to include upfront.
 
 It is also a practical response to the [[18-minute-rule]]: if attention degrades well before 30 minutes are up, the fix isn't a tighter monologue — it's spending less time presenting and more time in back-and-forth.
+
+## The Ratio Needs People to Speak
+
+A discussion-heavy meeting only works if people contribute. Shannon Jenkins names waiting for permission to speak as a habit that undercuts leaders: staying silent until called on, or making your point to a colleague after the meeting instead of in it (see [[speak-like-a-leader]]). Her fix, "one good question or well-timed comment can change the direction of a discussion," is the other side of the 3:1 ratio. See [[executive-presence]].
 
 ## Making the Five Minutes Count
 
@@ -27,3 +33,5 @@ A wiki synthesis: if only about five minutes of a 30-minute meeting are presenta
 - [[sounding-smart]]
 - [[cart-framework]]
 - [[pacing]]
+- [[executive-presence]]
+- [[speak-like-a-leader]]

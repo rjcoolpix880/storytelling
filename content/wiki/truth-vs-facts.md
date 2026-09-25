@@ -2,9 +2,11 @@
 
 **Summary**: The principle that emotional resonance and human truth matter more than strict factual accuracy — minor facts may flex to preserve a story's essential reality.
 
+**Lenses**: [[storytelling]]
+
 **Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-25
 
 ---
 
@@ -16,7 +18,7 @@ A story can be factually imprecise and still be deeply true. The "truth" of a st
 
 This is not fabrication. The essential facts — what happened, who was affected, what changed — must be real. What can flex are details that carry no emotional weight but could disrupt the story's flow.
 
-## How This Appears in Both Sources
+## How This Appears in the Sources
 
 The [[past-storytelling-technique]] source touches on this in the Speech pillar: "You can reconstruct dialogue from memory — precision matters less than immediacy." Van Neistat makes the principle broader and explicit: it applies to any minor detail, not just dialogue.
 

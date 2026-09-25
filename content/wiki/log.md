@@ -234,3 +234,103 @@ Append-only record of all operations.
 - `index.md`: new Disagreements register
 
 **Candidates considered but not recorded as conflicts:** Willis ("polish" and "precise pacing" aren't charisma) vs. Jenkins (deliberate pacing). These refer to different things: delivery polish vs. how much space each part of a story gets. Also considered: Monroe's statistics-heavy Need step vs. Willis's Knowledge Deficit Trap. Willis warns against over-relying on data, not against using it. Both could be revisited if a source takes a sharper position.
+
+## 2026-09-25 — Lenses added
+
+**Why:** The user's communication blends three lenses (storytelling, executive, technical) and they often want feedback through one lens at a time. Pages are now tagged so they can be read and filtered by lens.
+
+**CLAUDE.md:**
+- New "Lenses" section: the three lenses, tagging rules, hub page format, and the index Lenses column.
+- Page format: `**Lenses**:` line added directly under `**Summary**:`.
+- Ingest workflow: new step 7 (assign lenses, update hubs); step 8 now fills the index Lenses column; the log step notes lens changes.
+- New "Updating the wiki" section: keep lenses in sync on pages, hubs, and the index.
+- Conflicts: new "Disagreements across lenses" subsection. Name the lens clash in callouts and debate pages only when it explains the disagreement. The Disagreements table gets no Lenses column.
+- Lint gained lens checks; the "always update index.md" rule now includes the Lenses column.
+
+**Pages created (3 hub pages):** `storytelling.md` (21 concepts, 6 sources, 4 debates), `executive.md` (13 concepts, 5 sources, 2 debates), `technical.md` (4 concepts, 1 source).
+
+**Pages updated:**
+- All 39 concept, source summary, and debate pages: `**Lenses**:` line added.
+- `debate-answer-first-or-last.md` and its 7 inline callouts (`bluf-method`, `curiosity`, `how-to-tell-stories-better`, `minto-pyramid-principle`, `scqa-framework`, `surprise`, `van-neistat-storytelling`): labeled as an executive vs. storytelling lens disagreement.
+- `index.md`: Lenses column added to the Concept Pages and Source Summaries tables.
+
+**Other debates reviewed:** `debate-state-the-moral`, `debate-surprise-placement`, and `debate-how-to-open` were not caused by a lens difference (the first two are within storytelling; in the third, Monroe differs on emphasis, not lens), so they got no lens framing.
+
+**Gap noted:** The technical lens is thin. It rests mostly on the BLUF source.
+
+## 2026-09-25 — Lens hub descriptions
+
+- `storytelling.md`, `executive.md`, `technical.md`: added a short "What this lens is about" section (one paragraph plus bullets linking the key concepts and relevant debates) above the link lists.
+- CLAUDE.md: the hub format now includes that section. Ingest step 7 and "Updating the wiki" now say to reread it and revise it only when new content changes what the lens is about.
+
+## 2026-09-25 — Ingest: Speak Better Than 99% of People (Shannon Jenkins PDF guide)
+
+**Source:** [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/). A 4-page PDF, converted to clean markdown in `raw/` (the user removed leftover HTML tags and set the URL to the Shannon Jenkins homepage on purpose). It is the written companion to Jenkins's video, already in the wiki.
+
+**Pages created (2):**
+- `speak-better-than-99-percent.md`: source summary, with the seven techniques, six do/don't pairs, the business CART example, and how the guide differs from the video
+- `choosing-the-right-story.md`: "the story serves the message," the One Person / One Moment / One Change test, look inward vs. look outward, and a comparison with Homework for Life (message first vs. moments first; labeled as wiki synthesis)
+
+**Pages updated (16):**
+- `cart-framework.md`: CART comes after choosing the story; new "Worked Example: The Stopped Launch" table with guiding questions; the "ingredients, not a rigid order" section now notes that the guide's example does run in order
+- `curiosity.md`: the guide's darts pair; "save the payoff until it has earned its moment"
+- `tension.md`: Reporting vs. Story pair; the four uncertainty questions
+- `five-second-moment.md`: new "How to Zoom In" section (helicopter vs. in the moment; start late; dialogue, thought, reaction, and selective detail, mapped to PAST pillars as wiki synthesis; the one-person test)
+- `pacing.md`: new "A Workplace Version" section (30 seconds vs. six months; the helicopter view is fine for the fast parts)
+- `right-amount-of-specificity.md`: "small amounts" and the selective-detail example
+- `surprise.md`: new "Where to Find the Unexpected" list
+- `competence-and-warmth.md`: new "What a Personal Story Can Be" section (the list, plus the story as a bridge to the audience)
+- `what-happened-vs-what-it-meant.md`: new "A Workplace Example" section (before/after questions; Avoid/Try pair)
+- `homework-for-life.md`: new "Using the Archive" section connecting to look inward
+- `how-to-tell-stories-better.md`: pointer to the companion guide
+- `debate-state-the-moral.md`, `debate-answer-first-or-last.md`, `debate-surprise-placement.md`, `debate-how-to-open.md`: guide evidence added to Jenkins's position, the source added, and the new summary page listed under Pages involved
+- `index.md`: 2 new rows, and the new summary page added to all four Disagreements rows
+
+**Conflicts:** No new conflicts. The new summary page carries mirrored callouts for the four existing debates (techniques 1, 5, 7 and do/don't contrast 1). Noted in `debate-how-to-open`: the guide's CART Context line opens with a where and when, which narrows Jenkins's clash with PAST. Message first (Jenkins) vs. moments first (Homework for Life) was considered but not recorded as a conflict, since no source argues against the other approach.
+
+**Lenses:** Both new pages are tagged storytelling + executive (the guide targets business stories for leaders, and "the story serves the message" is an executive instinct). Both are added to the `storytelling.md` and `executive.md` hubs. Hub descriptions revised: storytelling gained a "Serves a message" bullet; executive gained a "Stories in service of the point" bullet. No existing page's lenses changed.
+
+## 2026-09-25 — Ingest: Speak Like a Leader (Shannon Jenkins email)
+
+**Source:** [Speak Like a Leader](mailto:hello@shannonjenkins.co), a newsletter email from Shannon Jenkins, saved as `raw/Speak Like a Leader.md`. The user set the email address as the source link.
+
+**Pages created (3):**
+- `speak-like-a-leader.md`: source summary covering the three habits to drop, with do/don't pairs and how the email fits with the rest of the wiki
+- `executive-presence.md`: presence by subtraction, a habits table, speaking up without taking over, composure (Willis's four-second rule), and a nuance on repetition vs. Duarte
+- `strong-opinions-loosely-held.md`: hedging vs. making the call, and "I recommend B, and here's why"
+
+**Pages updated:**
+- `bluf-method.md`, `jit-context.md`, `useful-vs-complete.md`: the rambling habit as the meeting version of front-loading
+- `story-killers.md`: "Does that make sense?" and pre-emptive apologies now appear on both lists
+- `belief-vs-confidence.md`: vocabulary note explaining that Willis's "confidence" (polish) is not Jenkins's "confidence" (conviction)
+- `competence-and-warmth.md`: "The Opposite Failure: Undercutting Competence"
+- `sounding-smart.md`, `three-to-one-ratio.md`: links to speaking up and composure
+- `what-so-what-now-what.md`: status updates and recommendations
+- `what-is-vs-what-could-be.md`: returning to the gap isn't repeating the point
+- `debate-answer-first-or-last.md`: new "Jenkins on both sides" section; summary, wiki's view, and Pages involved updated
+- `speak-better-than-99-percent.md`: pairs with the new email
+- `executive.md` hub, `index.md`
+
+**Conflicts:** No new debate. The email's "lead with your main point" joins `debate-answer-first-or-last` on the answer-first side, with callouts on `speak-like-a-leader` and `executive-presence` (framed as an executive vs. storytelling lens disagreement). Jenkins now holds both positions depending on context, which supports the debate's "different context" label. Considered but not recorded as conflicts: (1) Jenkins's "the same point three different ways" vs. Duarte's repeated returns to the gap (different scale and job; noted as wiki synthesis on both pages); (2) Jenkins's "project confidence" vs. Willis's "belief, not confidence" (the two use the word for different things).
+
+**Lenses:** All three new pages are tagged executive only (the email is about authority in meetings, not explaining technical subjects). Added to the `executive.md` hub. The hub description gained a "Presence by subtraction" bullet. No existing page's lenses changed.
+
+## 2026-09-25 — Lint
+
+**Automated checks (all pass):** page format; lens order; hubs list exactly the tagged pages; index Lenses column matches every page; no broken links (except the inline-code examples in older log entries, which aren't real links); no orphans; every conflict callout names a page listed under its debate's Pages involved; every Pages involved entry has a matching callout; the Disagreements table matches each debate page.
+
+**Fixes made:**
+- `useful-vs-complete.md`: summary and body said "all three sources in this wiki" (outdated; there are now 12 sources). Changed to "most sources" / "the sources."
+- `five-line-story.md`: "every source in this wiki points to the same beat" → the storytelling sources; added Jenkins's "One Change" as a fourth name for the beat.
+- `truth-vs-facts.md`: heading "How This Appears in Both Sources" → "in the Sources" (three sources).
+- `duarte-resonate.md`: "Two independent sources" on SCQA → now credits Minto and Willis.
+
+**New connections added:** listed under the ingest above (story-killers ↔ hedges, belief-vs-confidence ↔ Jenkins's "confidence," competence-and-warmth ↔ undercutting competence, 3:1 ratio ↔ speaking up, What/So What/Now What ↔ status updates).
+
+**New disagreements:** None found beyond those considered above.
+
+**Open items (not fixed):**
+- The technical lens is still thin: 4 concept pages and 1 source.
+- Concepts mentioned without their own page: Willis's four-second rule, the Knowledge Deficit Trap, "speak without a plan," helicopter view, forced reinterpretation. All are covered inside other pages; candidates if a new source expands them.
+- Claims still needing verification: the Whitman attribution (`truth-vs-facts`, `how-to-tell-stories-better`), and whether Duarte revisits the call to adventure (`audience-journey`).
+- Many concept pages list the Jenkins video as a source for a single connecting paragraph. That is consistent, but it makes Sources lines long.
