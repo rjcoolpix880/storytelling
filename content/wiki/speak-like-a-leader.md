@@ -4,9 +4,9 @@
 
 **Lenses**: [[executive]]
 
-**Sources**: [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -32,6 +32,9 @@ By the end of the conversation, you've given people little reason to trust your 
 - **Don't:** Lay out the options and leave the decision to someone else.
 - **Do (Try instead):** *"There are three options. I recommend B, and here's why."*
 - **Principle:** Strong opinions, loosely held. State your view with conviction, and stay open to changing it if someone makes a better case.
+
+> [!conflict]- Disputed: Jenkins's Don Draper video says not to open a recommendation with "I think"
+> In *How to Sell Your Ideas*, Jenkins says that when you challenge someone's thinking, "I think we should do X" makes it you versus them; credit an expert, mentor, customer, or data point instead ("I learned from [Expert] that..."). See [[debate-own-it-or-borrow-it]].
 
 See [[strong-opinions-loosely-held]].
 
@@ -80,6 +83,8 @@ Pick one habit and decide before your next meeting what you'll do differently. T
 - **Conviction.** Strong opinions, loosely held fits Rob Willis's [[belief-vs-confidence]]. Note the vocabulary: Jenkins wants leaders to project "confidence," while Willis says charisma is "belief, not confidence." They mean different things by the word, not opposite things. See [[strong-opinions-loosely-held]].
 - **The other half of Jenkins's leadership picture.** Her video and guide say leaders over-prove competence and need warmth ([[competence-and-warmth]]). This email is about the opposite failure: undercutting your own authority with hedges and silence.
 - **Composure.** Willis's four-second pause before answering a hard question (in [[sounding-smart]]) is a composure tool, one of the three qualities Jenkins's applicants want to project.
+- **Delivery to match.** Jenkins's Don Draper video (see [[how-to-sell-your-ideas]]) supplies techniques this email doesn't: a neutral tone instead of uptalk, gestures in the "zone of authority" ([[vocal-and-physical-authority]]), and silence once your point has landed ([[strategic-silence]]).
+- **A tension with the same video.** The video says not to open a challenge with "I think"; bring in a third party instead ([[third-party-perspective]]). See [[debate-own-it-or-borrow-it]].
 
 ## Exercises
 
@@ -101,3 +106,8 @@ One: pick one habit, decide before your next meeting what you'll do differently,
 - [[how-to-tell-stories-better]]
 - [[speak-better-than-99-percent]]
 - [[debate-answer-first-or-last]]
+- [[how-to-sell-your-ideas]]
+- [[vocal-and-physical-authority]]
+- [[strategic-silence]]
+- [[third-party-perspective]]
+- [[debate-own-it-or-borrow-it]]

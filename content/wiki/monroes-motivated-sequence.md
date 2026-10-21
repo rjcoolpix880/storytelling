@@ -4,9 +4,9 @@
 
 **Lenses**: [[executive]]
 
-**Sources**: [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Sources**: [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -68,6 +68,7 @@ The source uses Ron Finley's "A guerilla gardener in South Central LA" as a work
 - The Action step is the analog of [[five-line-story]]'s Result, but more directive — Monroe demands a specific commitment from the audience.
 - Establishing Need before Satisfaction mirrors the [[desire]] → conflict → resolution arc in narrative frameworks. Persuasion borrows narrative's engine.
 - The Need step is [[tension]] built into a persuasive speech: something uncertain and something at stake.
+- Don Draper's "calamine lotion" line in the Kodak pitch (see [[how-to-sell-your-ideas]]) puts Need and Satisfaction in one image: the "itch" is a problem the audience already feels, and the product is the lotion that soothes it. Jenkins's lesson is the same as Monroe's ordering: don't just present the solution; position it as relief for a specific, felt problem.
 - The Ron Finley example opens differently from the sleep example: with a concrete place ("I live in South Central...") rather than a statistic.
 
 ## Related pages
@@ -82,3 +83,4 @@ The source uses Ron Finley's "A guerilla gardener in South Central LA" as a work
 - [[how-to-tell-stories-better]]
 - [[audience-journey]]
 - [[debate-how-to-open]]
+- [[how-to-sell-your-ideas]]

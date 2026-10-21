@@ -4,7 +4,7 @@
 
 **Sources**: None (hub page).
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -16,11 +16,13 @@ Explaining complex or technical subjects so the listener understands enough to t
 - **Context when it's needed.** Give only the background required for the next step, at the moment it's needed ([[jit-context]]).
 - **Start from what they already know.** Begin at shared understanding and go deeper only as far as needed ([[zoom-in-method]]).
 - **Organize the detail cleanly.** Group supporting information so nothing overlaps and nothing is missing ([[mece-framework]]).
+- **Meaning before specs.** Features and technology are a "glittering lure"; lead with what they mean to the listener ([[the-expected-answer-trap]]).
 
 ## Concept pages
 
 - [[jit-context]]
 - [[mece-framework]]
+- [[the-expected-answer-trap]]
 - [[useful-vs-complete]]
 - [[zoom-in-method]]
 

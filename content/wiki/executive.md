@@ -4,7 +4,7 @@
 
 **Sources**: None (hub page).
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -19,6 +19,7 @@ Clear, direct communication for busy listeners who need to understand, decide, o
 - **Stories in service of the point.** A short business story is chosen to back a message you've already decided ([[choosing-the-right-story]]) and shows the person behind the expertise ([[competence-and-warmth]]).
 - **Presence by subtraction.** Authority comes as much from dropping habits as adding skills: hedged opinions, waiting to be asked, rambling ([[executive-presence]], [[strong-opinions-loosely-held]]).
 - **Belief over polish.** Conviction and clarity persuade more than sounding smart ([[belief-vs-confidence]], [[sounding-smart]]).
+- **Selling an idea.** Skip the answer everyone else will give ([[the-expected-answer-trap]]), make people feel it, not just think it ([[feel-not-just-think]]), reframe before you answer ([[not-but-reframe]]), and stop once it lands ([[strategic-silence]]). Challenging someone's view through a third party ([[third-party-perspective]]) sits uneasily with owning your opinion (see [[debate-own-it-or-borrow-it]]); a neutral tone and controlled gestures carry the authority ([[vocal-and-physical-authority]]).
 
 ## Concept pages
 
@@ -30,12 +31,18 @@ Clear, direct communication for busy listeners who need to understand, decide, o
 - [[cold-open]]
 - [[competence-and-warmth]]
 - [[executive-presence]]
+- [[feel-not-just-think]]
 - [[jit-context]]
 - [[mece-framework]]
+- [[not-but-reframe]]
 - [[scqa-framework]]
+- [[strategic-silence]]
 - [[strong-opinions-loosely-held]]
+- [[the-expected-answer-trap]]
+- [[third-party-perspective]]
 - [[three-to-one-ratio]]
 - [[useful-vs-complete]]
+- [[vocal-and-physical-authority]]
 - [[what-is-vs-what-could-be]]
 - [[what-so-what-now-what]]
 
@@ -43,6 +50,7 @@ Clear, direct communication for busy listeners who need to understand, decide, o
 
 - [[bluf-method]]
 - [[duarte-resonate]]
+- [[how-to-sell-your-ideas]]
 - [[minto-pyramid-principle]]
 - [[monroes-motivated-sequence]]
 - [[sounding-smart]]
@@ -53,6 +61,7 @@ Clear, direct communication for busy listeners who need to understand, decide, o
 
 - [[debate-answer-first-or-last]]
 - [[debate-how-to-open]]
+- [[debate-own-it-or-borrow-it]]
 
 ## Related pages
 

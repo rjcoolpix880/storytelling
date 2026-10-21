@@ -4,9 +4,9 @@
 
 **Lenses**: [[executive]], [[technical]]
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -29,7 +29,7 @@ BLUF flips this. Lead with the **destination** (conclusion/recommendation), then
 Leading with the headline invites the listener to ask clarifying questions on their own terms, keeping them actively engaged.
 
 > [!conflict]- Disputed: Van Neistat and Jenkins say leading with the key fact ruins a story
-> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff until you're ready. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
+> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff until you're ready, and in a pitch, to help people see the problem differently before giving the new answer (see [[not-but-reframe]]). This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 The same instinct shows up in live delivery, not just written structure: Rob Willis makes the same case for cutting small talk and starting a talk with the point instead of an agenda — see [[cold-open]].
 
@@ -83,3 +83,4 @@ See also [[zoom-in-method]] for the full concept.
 - [[speak-like-a-leader]]
 - [[executive-presence]]
 - [[strong-opinions-loosely-held]]
+- [[not-but-reframe]]

@@ -1,6 +1,6 @@
 # Wiki Index
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 A knowledge base on communication — storytelling, professional clarity, and the principles connecting them based on Andrej Karpathy's LLM Wiki pattern.
 
@@ -39,6 +39,12 @@ A knowledge base on communication — storytelling, professional clarity, and th
 | [[executive-presence]]        | Speaking so people trust your judgement — built as much by dropping habits (weak opinions, waiting to be asked, rambling) as adding skills | [[executive]] |
 | [[strong-opinions-loosely-held]] | State your view and make the call, stay open to a better case — the fix for hedging | [[executive]] |
 | [[choosing-the-right-story]]  | The story serves the message: decide the point, look inward and outward, test for one person, one moment, one change | [[storytelling]], [[executive]] |
+| [[the-expected-answer-trap]]  | Answering the brief literally gives everyone's answer; find the less obvious angle — what the audience craves, not the specs they named | [[executive]], [[technical]] |
+| [[third-party-perspective]]   | Challenge someone's view through an expert, mentor, data point, or story instead of "I think" — curious, not defensive | [[storytelling]], [[executive]] |
+| [[feel-not-just-think]]       | Logic matters, but emotion drives action: ask what you want them to feel, not just think | [[storytelling]], [[executive]] |
+| [[not-but-reframe]]           | Change how they see it before giving the new answer: "isn't a spaceship, it's a time machine" — plus the soundbite | [[storytelling]], [[executive]] |
+| [[vocal-and-physical-authority]] | Slow, measured voice, a neutral tone instead of uptalk, and gestures in the zone of authority | [[executive]] |
+| [[strategic-silence]]         | Once the idea lands, stop talking — and how that differs from the four-second rule and staying quiet in meetings | [[storytelling]], [[executive]] |
 
 ---
 
@@ -57,6 +63,7 @@ A knowledge base on communication — storytelling, professional clarity, and th
 | [[how-to-tell-stories-better]]  | Shannon Jenkins's seven storytelling lessons and CART, illustrated with two *Ted Lasso* scenes             | [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM) | [[storytelling]] |
 | [[speak-better-than-99-percent]] | Jenkins's written guide: message first, choosing a story, seven techniques with workplace examples, and a business CART example | [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/) | [[storytelling]], [[executive]] |
 | [[speak-like-a-leader]] | Jenkins's email on executive presence: three habits to drop — weak opinions, waiting for permission, rambling | [Speak Like a Leader](mailto:hello@shannonjenkins.co) | [[executive]] |
+| [[how-to-sell-your-ideas]] | Jenkins on Don Draper's Kodak Carousel pitch: logic alone doesn't sell — five lessons on the expected answer, third parties, feeling, reframing, and silence | [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o) | [[storytelling]], [[executive]] |
 
 ---
 
@@ -68,8 +75,10 @@ Where experts in this wiki disagree. Each debate page lays out every position wi
 | --- | --- | --- | --- |
 | [[debate-state-the-moral]] | Direct contradiction | PAST source (never announce the moral) vs. Jenkins (the takeaway is the most important step) | [[story-killers]], [[past-storytelling-technique]], [[how-to-tell-stories-better]], [[what-happened-vs-what-it-meant]], [[cart-framework]], [[speak-better-than-99-percent]] |
 | [[debate-surprise-placement]] | Different emphasis | Van Neistat (save the surprise for the end) vs. Jenkins (the unexpected can open and turn a story mid-way) | [[surprise]], [[van-neistat-storytelling]], [[how-to-tell-stories-better]], [[speak-better-than-99-percent]] |
-| [[debate-answer-first-or-last]] | Different context | BLUF, Minto, and Jenkins's email (conclusion first) vs. Van Neistat and Jenkins's storytelling material (withhold the payoff) | [[bluf-method]], [[minto-pyramid-principle]], [[scqa-framework]], [[van-neistat-storytelling]], [[surprise]], [[curiosity]], [[how-to-tell-stories-better]], [[speak-better-than-99-percent]], [[speak-like-a-leader]], [[executive-presence]] |
+| [[debate-answer-first-or-last]] | Different context | BLUF, Minto, and Jenkins's email (conclusion first) vs. Van Neistat, Jenkins's storytelling material, and Jenkins's pitch advice (withhold the payoff / reframe before the answer) | [[bluf-method]], [[minto-pyramid-principle]], [[scqa-framework]], [[van-neistat-storytelling]], [[surprise]], [[curiosity]], [[how-to-tell-stories-better]], [[speak-better-than-99-percent]], [[speak-like-a-leader]], [[executive-presence]], [[how-to-sell-your-ideas]], [[not-but-reframe]] |
+| [[debate-own-it-or-borrow-it]] | Different context | Jenkins's email (state your own recommendation) vs. Jenkins's Don Draper video (don't say "I think" — credit a third party) | [[strong-opinions-loosely-held]], [[speak-like-a-leader]], [[executive-presence]], [[third-party-perspective]], [[how-to-sell-your-ideas]] |
 | [[debate-how-to-open]] | Different emphasis | PAST, five-line story (ground the scene) vs. Willis, Jenkins (open with a hook) vs. Monroe (attention on the problem) | [[past-storytelling-technique]], [[story-killers]], [[five-line-story]], [[cold-open]], [[curiosity]], [[how-to-tell-stories-better]], [[monroes-motivated-sequence]], [[speak-better-than-99-percent]] |
 
 **Small disagreements (inline callouts only, no debate page):**
 - Monroe (call to action last) vs. Duarte (call to adventure third of 12 steps): [[monroes-motivated-sequence]], [[audience-journey]], [[duarte-resonate]]
+- Willis (charisma isn't polish or practiced gestures) vs. Jenkins (tone and the zone of authority signal authority), different emphasis: [[belief-vs-confidence]], [[vocal-and-physical-authority]], [[how-to-sell-your-ideas]]

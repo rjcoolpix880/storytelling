@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]], [[executive]]
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -50,6 +50,13 @@ Shannon Jenkins says leaders want to project "confidence, composure and authorit
 
 Jenkins's version is close to what Willis calls belief. Her fix, "strong opinions, loosely held," is conviction applied to a recommendation. See [[strong-opinions-loosely-held]] and [[executive-presence]].
 
+## Delivery Mechanics: Jenkins's Zone of Authority
+
+Jenkins's Don Draper video (see [[how-to-sell-your-ideas]]) does teach delivery mechanics: a slow, measured voice, sentences that end on a neutral tone rather than rising like a question, and hands kept in the "zone of authority" between shoulders and hips. See [[vocal-and-physical-authority]].
+
+> [!conflict]- Disputed: Jenkins teaches tone and gesture as signals of authority
+> Willis says polish and "practiced gestures" aren't what make a speaker magnetic. Jenkins prescribes specific tone and gesture habits, though she frames them as signals of authority and composure, not as charisma, and pairs them with conviction ("spoke with authority, with conviction"). A difference of emphasis. See [[vocal-and-physical-authority]].
+
 ## Related pages
 
 - [[truth-vs-facts]]
@@ -58,3 +65,6 @@ Jenkins's version is close to what Willis calls belief. Her fix, "strong opinion
 - [[strong-opinions-loosely-held]]
 - [[executive-presence]]
 - [[speak-like-a-leader]]
+- [[vocal-and-physical-authority]]
+- [[how-to-sell-your-ideas]]
+- [[feel-not-just-think]]

@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]], [[executive]]
 
-**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories](https://tomtunguz.com/storytelling-duarte/), [Monroe's Motivated Sequence | Public Speaking](https://courses.lumenlearning.com/wm-publicspeaking/chapter/monroes-motivated-sequence/), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -23,6 +23,7 @@ This is not a presentation technique. It is the underlying mechanism that every 
 | [[scqa-framework]] | Situation + Complication | Answer |
 | [[five-line-story]] | Situation + Conflict | Change + Result |
 | [[bluf-method]] | (the problem) | (the recommendation) |
+| [[not-but-reframe]] | "This device isn't a spaceship..." (how they see it now) | "...It's a time machine." (how it could be seen) |
 
 Every framework here builds tension between a present state and a different possible state, then resolves it. The frameworks differ in *how often* they cycle through the gap — Monroe walks through it once across five steps; Duarte sustains the oscillation as a rhythm through the whole talk.
 
@@ -54,6 +55,7 @@ The present-vs-future gap in persuasion is mostly an outcome gap (tension): will
 - **Don't dwell in the present.** A problem without a credible alternative feels hopeless.
 - **Return to the gap repeatedly.** Each return is an opportunity to reinforce stakes.
 - **Make the gap concrete.** Abstract problems and abstract futures don't pull the audience in. Specifics on both sides do.
+- **Compress the gap into one line.** The Not/But reframe ("It's not called the wheel. It's called the carousel.") states the present view and the new one in a single soundbite. See [[not-but-reframe]].
 
 **Returning isn't repeating (wiki synthesis).** Shannon Jenkins lists "making the same point three different ways" as a form of rambling (see [[executive-presence]]). That doesn't cut against Duarte: Jenkins is describing an answer in a meeting, and each of Duarte's returns to the gap brings new material across a whole presentation.
 
@@ -69,3 +71,5 @@ The present-vs-future gap in persuasion is mostly an outcome gap (tension): will
 - [[tension]]
 - [[how-to-tell-stories-better]]
 - [[executive-presence]]
+- [[not-but-reframe]]
+- [[how-to-sell-your-ideas]]

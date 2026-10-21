@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]], [[executive]]
 
-**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -19,6 +19,8 @@ Audiences do not want to be lectured by a textbook; they want to be led by a bel
 ## The Knowledge Deficit Trap
 
 When an audience doesn't immediately buy an idea, speakers assume they need *more information* — so they over-explain, dump data, and reach for jargon to sound smart. But persuasion requires connection, not information volume. This is the same failure mode the wiki already tracks as [[useful-vs-complete]]: give the audience what they need to *feel* the idea, not everything you know about it.
+
+Shannon Jenkins's breakdown of Don Draper's Kodak pitch is a worked example of avoiding the trap (see [[how-to-sell-your-ideas]]). Kodak wanted a pitch about technology; Don never explains the projector's features and makes the room feel nostalgia instead. Her version of the rule: "think about what you want them to feel, not just what you want them to think." See [[feel-not-just-think]].
 
 Shannon Jenkins describes a related failure in how leaders present themselves: overemphasizing competence at the expense of warmth. The Knowledge Deficit Trap is that failure in the *content*; the competence–warmth gap is the same failure in the *speaker*. See [[competence-and-warmth]].
 
@@ -46,10 +48,13 @@ Five concrete techniques:
 
 The four-second rule and ditching fix-it mode are both tools for composure and listening, two things Shannon Jenkins ties to executive presence. Her advice to stop waiting for permission to speak pairs with fix-it mode: speak up when your point is relevant, after you've actually heard the discussion. See [[executive-presence]].
 
+The four-second rule is silence *before* answering. Jenkins adds silence *after* your idea lands: stop talking and let it sink in, rather than over-explaining. See [[strategic-silence]].
+
 ## Five Actionable Steps for Your Next Meeting
 
 1. **Define a realistic objective** — aim for a concrete next step (e.g., a follow-up meeting), not an outsized outcome on the spot.
 2. **Speak the audience's language** — use the decision-maker's own off-the-clock, behavioral language, not corporate jargon.
+   A nuance (wiki synthesis): Don Draper ignores Kodak's own framing of the brief ("the wheel," "technology") but speaks straight to a feeling the client already has. Rejecting the brief's angle isn't the same as ignoring the audience's language. See [[the-expected-answer-trap]].
 3. **Simplify into a framework** — before building slides, distill the argument into a structure like [[what-so-what-now-what]] or "Situation, Complication, Resolution" (see [[scqa-framework]], which converges on the same shape), explainable in two to three minutes.
 4. **Test your ideas** — walk the concept past a colleague before building a full deck, to catch confusing jargon or shaky logic.
 5. **Follow the 3:1 ratio** — three parts discussion to one part presentation. See [[three-to-one-ratio]].
@@ -68,3 +73,7 @@ The four-second rule and ditching fix-it mode are both tools for composure and l
 - [[bluf-method]]
 - [[competence-and-warmth]]
 - [[executive-presence]]
+- [[feel-not-just-think]]
+- [[strategic-silence]]
+- [[the-expected-answer-trap]]
+- [[how-to-sell-your-ideas]]

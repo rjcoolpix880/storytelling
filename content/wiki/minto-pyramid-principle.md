@@ -4,9 +4,9 @@
 
 **Lenses**: [[executive]]
 
-**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Sources**: [The Minto Pyramid Principle Explained (With Example Frameworks)](https://www.betterup.com/blog/minto-pyramid), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -50,7 +50,7 @@ Minto built this for executives with no time to read walls of text. The Nielsen 
 Stating the conclusion first also frames every subsequent detail around it, which is more persuasive than letting the audience build their own interpretation as you go.
 
 > [!conflict]- Disputed: Van Neistat and Jenkins say leading with the key fact ruins a story
-> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff. Duarte's SCQA template and Monroe's sequence also build up before the answer. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
+> Van Neistat calls leading with the key fact the amateur's mistake; Shannon Jenkins says to withhold the payoff, and in a pitch, to reframe the problem before giving the new answer (see [[not-but-reframe]]). Duarte's SCQA template and Monroe's sequence also build up before the answer. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
 ## How It Connects to Other Frameworks
 
@@ -71,3 +71,4 @@ Stating the conclusion first also frames every subsequent detail around it, whic
 - [[curiosity]]
 - [[tension]]
 - [[debate-answer-first-or-last]]
+- [[not-but-reframe]]

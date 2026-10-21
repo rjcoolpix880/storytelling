@@ -334,3 +334,45 @@ Append-only record of all operations.
 - Concepts mentioned without their own page: Willis's four-second rule, the Knowledge Deficit Trap, "speak without a plan," helicopter view, forced reinterpretation. All are covered inside other pages; candidates if a new source expands them.
 - Claims still needing verification: the Whitman attribution (`truth-vs-facts`, `how-to-tell-stories-better`), and whether Duarte revisits the call to adventure (`audience-journey`).
 - Many concept pages list the Jenkins video as a source for a single connecting paragraph. That is consistent, but it makes Sources lines long.
+
+## 2026-10-21 — Ingest: How to Sell Your Ideas Better Than 99% of Your Colleagues (Shannon Jenkins)
+
+**Source:** [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o), a 15-minute video in which Shannon Jenkins breaks down Don Draper's Kodak Carousel pitch from *Mad Men*. Saved as `raw/How to Sell Your Ideas Better Than 99% of Your Colleagues.md`.
+
+**Pages created (8):**
+- `how-to-sell-your-ideas.md`: source summary with a beat-by-beat table of the scene, the three techniques for introducing an idea, the five lessons, do/don't pairs, smaller points (calamine lotion, vulnerability, the Stanford line), the exercise, and key terms
+- `the-expected-answer-trap.md`: don't answer the brief literally; the "glittering lure" of technology; the "find the smarter answer" exercise
+- `third-party-perspective.md`: "I learned from [Expert] that..." instead of "I think we should do X"
+- `feel-not-just-think.md`: "What do I want them to feel?"; explaining vs. making them feel it; agreement across sources
+- `not-but-reframe.md`: "isn't a spaceship, it's a time machine," why the "not" comes first, the soundbite
+- `vocal-and-physical-authority.md`: slow, measured voice; neutral tone instead of uptalk; the zone of authority
+- `strategic-silence.md`: stop once it lands; a table of three kinds of silence in the wiki
+- `debate-own-it-or-borrow-it.md`: new debate page (see Conflicts)
+
+**Pages updated:**
+- `executive-presence.md`: three delivery techniques under Composure (neutral tone, zone of authority, silence), with uptalk as a habit to drop; new weak-opinions-row callout
+- `strong-opinions-loosely-held.md`, `speak-like-a-leader.md`: new callouts and links to uptalk and the third-party approach
+- `belief-vs-confidence.md`: new "Delivery Mechanics" section with a callout
+- `sounding-smart.md`: Kodak pitch as a worked example of avoiding the Knowledge Deficit Trap; silence before vs. after; nuance on "speak the audience's language"
+- `story-killers.md`: "Does that make sense?" now appears in three sources
+- `competence-and-warmth.md`: new "Vulnerability in a Pitch" section
+- `curiosity.md`: "Bring in someone else's story" added to ways to create curiosity
+- `monroes-motivated-sequence.md`: the itch and calamine lotion as Need and Satisfaction
+- `what-is-vs-what-could-be.md`: Not/But row in the pattern table; "compress the gap into one line"
+- `useful-vs-complete.md`: the glittering lure and stopping once it lands
+- `choosing-the-right-story.md`: add "feel" to the message question (wiki synthesis); check against the expected answer
+- `truth-vs-facts.md`: new section on the nostalgia etymology and the Stanford statistic, both marked as needing verification; fixed a mis-cased link (`Useful-vs-complete`)
+- `debate-answer-first-or-last.md`: new "Jenkins in a pitch" section, summary, wiki's view, and Pages involved updated
+- `bluf-method.md`, `minto-pyramid-principle.md`: callouts now mention Jenkins's pitch advice
+- `how-to-tell-stories-better.md`, `speak-better-than-99-percent.md`: pointers to the new summary
+- `storytelling.md`, `executive.md`, `technical.md` hubs; `index.md`
+
+**Conflicts:**
+- **New debate, `debate-own-it-or-borrow-it` (different context, executive lens only, no lens framing):** Jenkins's email ("I recommend B, and here's why") vs. her Don Draper video ("Don't: I think we should do X. Do: I learned from [Expert] that..."). Callouts on `strong-opinions-loosely-held`, `speak-like-a-leader`, `executive-presence`, `third-party-perspective`, `how-to-sell-your-ideas`. Added to the Disagreements table.
+- **Joins `debate-answer-first-or-last`:** "Don't just give them the new answer. Help them see the thing differently first." Jenkins is now on the build-up side for pitches. Lens-framed callouts on `how-to-sell-your-ideas` and `not-but-reframe`; the BLUF and Minto callouts were updated to mirror them. The index row was updated.
+- **Small, inline only:** Willis (charisma isn't polish or practiced gestures) vs. Jenkins (tone and zone of authority as signals of authority), different emphasis. Callouts on `belief-vs-confidence`, `vocal-and-physical-authority`, and `how-to-sell-your-ideas`. Listed under Small disagreements in the index.
+- **Considered, not recorded:** feelings over logic vs. Minto's and Monroe's use of evidence (Jenkins says "facts matter, logic matters"); "stop talking" vs. the email's "don't wait for permission to speak" (different silences, explained in `strategic-silence`); Draper ignoring the brief's framing vs. Willis's "speak the audience's language" (noted as a nuance).
+
+**Needs verification:** the "Stanford study, about seven times more memorable" figure (the commonly quoted version is "up to 22 times," attributed to Jennifer Aaker); the nostalgia etymology (the wiki notes it is "homecoming" plus "pain," not "the pain from an old wound").
+
+**Lenses:** The summary page, `third-party-perspective`, `feel-not-just-think`, `not-but-reframe`, and `strategic-silence` are tagged storytelling and executive. `vocal-and-physical-authority` and the debate page are tagged executive. `the-expected-answer-trap` is tagged executive and technical (leading with meaning rather than specs is advice for explaining technical subjects). Pages were added to the matching hubs. New hub bullets: "Selling an idea" (executive), "Sells an idea" (storytelling), "Meaning before specs" (technical). No existing page's lenses changed.

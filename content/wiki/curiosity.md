@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]]
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [The ONLY 5 Lines You Need To Tell Any Story](https://www.youtube.com/watch?v=NeTJRCycYXQ), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -61,6 +61,7 @@ How they relate:
 - **Open with something unexpected.** Start as far as possible from what the audience expects. Asked about Earl's death, Ted begins with being attacked by a dog as a toddler. The gap between the prompt and the opening makes the audience work out the connection. See [[cold-open]] and [[surprise]].
 - **Pose the question the listener didn't know to ask.** "Have you played a lot of darts, Ted?"
 - **State a want.** See [[desire]].
+- **Bring in someone else's story.** In a pitch, Don Draper opens his challenge to the client with "My first job... this old pro copywriter, Greek, named Teddy." Jenkins: "in a few seconds, we have a person and a story that makes us curious about what this wise old advertising man taught him." Curiosity there does a second job: it replaces defensiveness. See [[third-party-perspective]].
 - **Make the question explicit in an argument.** The Question beat in [[scqa-framework]] is curiosity written into the structure.
 
 > [!conflict]- Disputed: PAST and the five-line story open by grounding the scene
@@ -82,3 +83,5 @@ How they relate:
 - [[debate-answer-first-or-last]]
 - [[debate-how-to-open]]
 - [[speak-better-than-99-percent]]
+- [[third-party-perspective]]
+- [[how-to-sell-your-ideas]]

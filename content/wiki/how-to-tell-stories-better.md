@@ -6,13 +6,15 @@
 
 **Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
 Shannon Jenkins is a leadership and storytelling trainer (clients include Nestlé, Nespresso, and Google). Her audience is leaders, and her framing is practical: storytelling is how a leader disarms skepticism, makes an idea memorable, and moves people to act.
 
 Jenkins also published a four-page written companion to this video, with new workplace examples and a section on choosing the right story. See [[speak-better-than-99-percent]].
+
+For how she applies the same ideas to selling an idea in a pitch, see [[how-to-sell-your-ideas]].
 
 ## Core Thesis
 
@@ -176,3 +178,4 @@ None in the video. Jenkins mentions an external guide and course but gives no ex
 - [[debate-how-to-open]]
 - [[speak-better-than-99-percent]]
 - [[choosing-the-right-story]]
+- [[how-to-sell-your-ideas]]

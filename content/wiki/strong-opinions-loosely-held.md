@@ -4,9 +4,9 @@
 
 **Lenses**: [[executive]]
 
-**Sources**: [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -35,6 +35,9 @@ The cost: by the end of the conversation, you've given people little reason to t
 - **Do:** *"There are three options. I recommend B, and here's why."*
 - **Why:** The strong version shows you've done the thinking (three options), makes a decision (B), and invites scrutiny on your terms (here's why).
 
+> [!conflict]- Disputed: Jenkins's Don Draper video says not to open a recommendation with "I think"
+> In *How to Sell Your Ideas*, Jenkins says that when you challenge someone's thinking, "I think we should do X" makes it you versus them; credit an expert, mentor, customer, or data point instead ("I learned from [Expert] that..."). See [[debate-own-it-or-borrow-it]].
+
 ## Strong *and* Loose
 
 The two halves do different jobs:
@@ -53,6 +56,8 @@ The two halves do different jobs:
 - **[[belief-vs-confidence]].** Rob Willis says audiences respond to genuine conviction. Strong opinions are that conviction applied to a recommendation. Note that Willis uses "confidence" to mean polish, not conviction, so his "belief, not confidence" doesn't argue against Jenkins.
 - **[[story-killers]].** "Does that make sense?" is on both lists. The PAST source says it signals doubt and breaks a story's immersion; Jenkins says it signals doubt and undercuts your authority. "I'm not a good storyteller" on the PAST list is a pre-emptive apology, the same move as "This might be a silly question..."
 - **[[what-so-what-now-what]].** A strong opinion is a clear *Now What*. Ending a status update with the facts and no recommendation is the handing-off-the-decision form of a weak opinion.
+- **[[vocal-and-physical-authority]].** A strong opinion said with uptalk, the rising tone of a question, turns back into a hedge. Jenkins's Don Draper video says to end sentences on a neutral tone (see [[how-to-sell-your-ideas]]).
+- **[[third-party-perspective]].** The same video says that when you're *challenging* someone's view, don't lead with "I think." Don Draper still holds a strong opinion; he just credits it to a mentor. See [[debate-own-it-or-borrow-it]].
 
 ## Related pages
 
@@ -63,3 +68,7 @@ The two halves do different jobs:
 - [[belief-vs-confidence]]
 - [[story-killers]]
 - [[what-so-what-now-what]]
+- [[third-party-perspective]]
+- [[vocal-and-physical-authority]]
+- [[how-to-sell-your-ideas]]
+- [[debate-own-it-or-borrow-it]]

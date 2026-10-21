@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]]
 
-**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -31,7 +31,7 @@ These phrases signal to the listener that the teller lacks confidence in the sto
 
 Two of these phrases show up on Shannon Jenkins's list of habits that undercut a leader's authority (see [[speak-like-a-leader]]):
 
-- **"Does that make sense?"** is on both lists. PAST says it breaks a story's immersion; Jenkins says it gives people little reason to trust your judgement.
+- **"Does that make sense?"** is on both lists. PAST says it breaks a story's immersion; Jenkins says it gives people little reason to trust your judgement. Jenkins's Don Draper video names it a third time: the nervous question people ask after a pitch instead of letting the silence work. See [[strategic-silence]] and [[how-to-sell-your-ideas]].
 - **"I'll be brief / I'm not a good storyteller"** is a pre-emptive apology, the same move as Jenkins's "This might be a silly question..." and "Sorry, can I just jump in..."
 
 The shared idea: phrases that signal doubt make the listener doubt too. See [[strong-opinions-loosely-held]] and [[executive-presence]].
@@ -62,3 +62,5 @@ The fix for "I'll be brief" is to *be* brief by starting with Action. [[pacing]]
 - [[strong-opinions-loosely-held]]
 - [[executive-presence]]
 - [[speak-like-a-leader]]
+- [[strategic-silence]]
+- [[how-to-sell-your-ideas]]

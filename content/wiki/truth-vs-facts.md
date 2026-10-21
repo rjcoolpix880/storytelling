@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]]
 
-**Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM)
+**Sources**: [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -24,7 +24,7 @@ The [[past-storytelling-technique]] source touches on this in the Speech pillar:
 
 ## Distinction from Useful vs. Complete
 
-[[Useful-vs-complete]] and truth-vs-facts are related but address different problems:
+[[useful-vs-complete]] and truth-vs-facts are related but address different problems:
 
 | Concept | The tension | The resolution |
 |---|---|---|
@@ -42,6 +42,13 @@ When you interrupt a good story to correct an irrelevant fact, you rob the liste
 In Shannon Jenkins's darts example (see [[how-to-tell-stories-better]]), Ted Lasso credits "Be curious, not judgmental" to Walt Whitman. That attribution is widely considered wrong (needs verification). The story works anyway, because the attribution carries no emotional weight. What matters is the idea and the moment Ted saw it. This is the principle in action: a minor fact is off, and the truth is intact.
 
 A nuance, which is a wiki synthesis: this flex is safest for minor details of your *own* experience (exact words, exact dates). A misattributed quote or a wrong statistic in a professional talk is something the audience can check, and getting it wrong can cost credibility, the competence half of [[competence-and-warmth]]. Let the details of your memory flex; check the claims.
+
+## Two More Examples: A Pitch
+
+Shannon Jenkins's Don Draper video (see [[how-to-sell-your-ideas]]) has two claims worth flagging:
+
+- **"In Greek, nostalgia literally means the pain from an old wound."** Not literally. The word combines the Greek for "homecoming" and "pain" (wiki note; needs verification against a dictionary source). Like the Whitman misattribution, it doesn't matter to the pitch: the emotional truth (a longing to go back) is intact. See [[feel-not-just-think]].
+- **"A Stanford study showing that storytelling can be about seven times more memorable than facts alone."** Jenkins offers this as a sample line for challenging a client with outside data (see [[third-party-perspective]]). The figure needs verification: the version of this claim most often quoted is "up to 22 times more memorable," usually attributed to Stanford's Jennifer Aaker, and the underlying study is hard to trace. Unlike the nostalgia line, this one is offered as evidence, so the fact matters.
 
 ## Specificity Without Precision
 
@@ -61,3 +68,6 @@ A nuance, which is a wiki synthesis: this flex is safest for minor details of yo
 - [[right-amount-of-specificity]]
 - [[competence-and-warmth]]
 - [[how-to-tell-stories-better]]
+- [[how-to-sell-your-ideas]]
+- [[feel-not-just-think]]
+- [[third-party-perspective]]

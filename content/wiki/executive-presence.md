@@ -4,9 +4,9 @@
 
 **Lenses**: [[executive]]
 
-**Sources**: [Speak Like a Leader](mailto:hello@shannonjenkins.co), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg)
+**Sources**: [Speak Like a Leader](mailto:hello@shannonjenkins.co), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -26,6 +26,9 @@ Jenkins's key move: most advice is about what to add. What you let go of matters
 | **Waiting for permission to speak** | Staying silent until called on; "Sorry, can I just jump in..."; making your point to a colleague after the meeting; hearing someone else say your idea and get the credit | Make your point when it's relevant. One good question or well-timed comment can change the direction of a discussion | This page (below) |
 | **Rambling and overexplaining** | "So, to give you some background..."; a status update that starts in 2023; making the same point three different ways | Lead with your main point, then add only the context people need. "Speak less to say more." | [[bluf-method]], [[jit-context]] |
 
+> [!conflict]- Disputed (weak opinions row): Jenkins's Don Draper video says not to open a recommendation with "I think"
+> In *How to Sell Your Ideas*, Jenkins says that when you challenge someone's thinking, "I think we should do X" makes it you versus them; credit an expert, mentor, customer, or data point instead ("I learned from [Expert] that..."). See [[debate-own-it-or-borrow-it]].
+
 > [!conflict]- Disputed (rambling row): Van Neistat and Jenkins's own storytelling advice say to withhold the payoff
 > In a story, Van Neistat says leading with the key fact is the amateur's mistake, and Jenkins herself says to save the payoff until it has earned its moment. This disagreement comes from different lenses: [[executive]] (the listener needs the answer to act) vs. [[storytelling]] (the payoff is what holds attention). See [[debate-answer-first-or-last]].
 
@@ -39,6 +42,12 @@ Jenkins's fix for waiting for permission is modest: you don't need to dominate, 
 ## Composure
 
 Of Jenkins's three qualities, composure is the one the email doesn't give a technique for. Willis's **four-second rule** fits: when a conversation turns tense or you're asked a hard question, pause four full seconds before responding. It prevents defensive reactions and "projects quiet confidence." See [[sounding-smart]].
+
+Jenkins's Don Draper video (see [[how-to-sell-your-ideas]]) adds three more:
+
+- **A neutral tone.** End sentences level, not with a rising inflection (uptalk) that sounds like asking permission. Uptalk is a habit to drop in the same spirit as the email's three: it's the vocal version of "Sorry, can I just jump in..."
+- **Controlled gestures.** Keep your hands mostly in the "zone of authority," between shoulders and hips. See [[vocal-and-physical-authority]].
+- **Silence once your point lands.** Don't over-explain or ask "Does that make sense?" See [[strategic-silence]]. This is not the silence the email warns against: that is staying quiet *instead* of making your point.
 
 ## How This Relates to Other Pages
 
@@ -63,3 +72,8 @@ Of Jenkins's three qualities, composure is the one the email doesn't give a tech
 - [[story-killers]]
 - [[what-is-vs-what-could-be]]
 - [[debate-answer-first-or-last]]
+- [[how-to-sell-your-ideas]]
+- [[vocal-and-physical-authority]]
+- [[strategic-silence]]
+- [[third-party-perspective]]
+- [[debate-own-it-or-borrow-it]]

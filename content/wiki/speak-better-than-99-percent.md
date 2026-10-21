@@ -6,11 +6,13 @@
 
 **Sources**: [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
 Shannon Jenkins is a leadership and storytelling trainer who works with senior leaders. This guide covers the same seven techniques and CART structure as her video (see [[how-to-tell-stories-better]]), but it's written for short business stories told by leaders, and it adds two steps the video skips: deciding on the message and choosing the story.
+
+For how Jenkins uses storytelling to sell an idea in a pitch, see [[how-to-sell-your-ideas]].
 
 ## The One Rule: The Story Serves the Message
 
@@ -170,3 +172,4 @@ None as such. The two takeaway questions and the CART guiding questions work as 
 - [[debate-state-the-moral]]
 - [[debate-how-to-open]]
 - [[speak-like-a-leader]]
+- [[how-to-sell-your-ideas]]

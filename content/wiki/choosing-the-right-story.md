@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]], [[executive]]
 
-**Sources**: [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/)
+**Sources**: [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -19,6 +19,10 @@ Ask:
 > *What do I want my audience to understand, believe or remember?*
 
 Only then look for a story. A great story that doesn't support the objective is the wrong story for this moment.
+
+**Add "feel" (wiki synthesis).** In her Don Draper video (see [[how-to-sell-your-ideas]]), Jenkins adds a question for pitches: "What do I want them to feel, not just what do I want them to think?" Asking it here helps pick a story that carries the feeling, not just the point. Don's mentor story was chosen to set up one feeling: nostalgia. See [[feel-not-just-think]].
+
+A second check, from the same video: is your message the one everyone else would choose? See [[the-expected-answer-trap]].
 
 ## Step 2: Test It: One Person. One Moment. One Change.
 
@@ -75,3 +79,6 @@ They work together: collect moments daily, then pick from them once the message 
 - [[curiosity]]
 - [[debate-answer-first-or-last]]
 - [[debate-state-the-moral]]
+- [[feel-not-just-think]]
+- [[the-expected-answer-trap]]
+- [[how-to-sell-your-ideas]]

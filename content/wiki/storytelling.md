@@ -4,7 +4,7 @@
 
 **Sources**: None (hub page).
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -18,6 +18,7 @@ A story turns information into an experience. Instead of reporting what happened
 - **Holds something back.** [[curiosity]] and [[surprise]] keep people listening; where the surprise goes is disputed (see [[debate-surprise-placement]]).
 - **Feels true.** Emotional truth and a few concrete details ([[truth-vs-facts]], [[right-amount-of-specificity]]) matter more than a complete record.
 - **Lands on what it meant.** A story is more than what happened ([[what-happened-vs-what-it-meant]]); sources disagree on whether to say the meaning out loud (see [[debate-state-the-moral]]).
+- **Sells an idea.** In a pitch, a story makes people feel the idea rather than just understand it ([[feel-not-just-think]]), a mentor's story makes them curious instead of defensive ([[third-party-perspective]]), and a Not/But soundbite lands the new view ([[not-but-reframe]]) before you stop talking ([[strategic-silence]]).
 
 ## Concept pages
 
@@ -31,14 +32,18 @@ A story turns information into an experience. Instead of reporting what happened
 - [[competence-and-warmth]]
 - [[curiosity]]
 - [[desire]]
+- [[feel-not-just-think]]
 - [[five-second-moment]]
 - [[homework-for-life]]
+- [[not-but-reframe]]
 - [[pacing]]
 - [[right-amount-of-specificity]]
 - [[scqa-framework]]
 - [[story-killers]]
+- [[strategic-silence]]
 - [[surprise]]
 - [[tension]]
+- [[third-party-perspective]]
 - [[truth-vs-facts]]
 - [[useful-vs-complete]]
 - [[what-happened-vs-what-it-meant]]
@@ -48,6 +53,7 @@ A story turns information into an experience. Instead of reporting what happened
 
 - [[duarte-resonate]]
 - [[five-line-story]]
+- [[how-to-sell-your-ideas]]
 - [[how-to-tell-stories-better]]
 - [[past-storytelling-technique]]
 - [[sounding-smart]]

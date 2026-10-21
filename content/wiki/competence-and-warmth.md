@@ -4,9 +4,9 @@
 
 **Lenses**: [[storytelling]], [[executive]]
 
-**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Better Than 99% of People: A Practical Guide to Storytelling](https://www.shannonjenkins.co/), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
@@ -38,6 +38,12 @@ She adds a test: use your experience **as a bridge to the audience**. "The stron
 Jenkins also describes the reverse problem (see [[speak-like-a-leader]]): leaders who undercut their own authority with hedges ("I'm not sure, but...", "This might be a silly question..."), silence in meetings, and rambling answers. Those habits leave people with "little reason to trust your judgement."
 
 The wiki's reading: hedging can feel like humility or warmth, but it costs competence without building connection. Warmth comes from a well-chosen personal story; competence comes from stating your view clearly. See [[executive-presence]] and [[strong-opinions-loosely-held]].
+
+## Vulnerability in a Pitch
+
+Jenkins's Don Draper video (see [[how-to-sell-your-ideas]]) shows the same move in a sales pitch. Don's slideshow is his own family photos, and his "third party" is a story from his first job, learning from an old pro copywriter. Her point: you don't need to invent a story, you need to be willing to connect your own life and experiences to the idea you're selling, so it feels authentic.
+
+Both details are personal, not private: a family snapshot and a mentor from early in his career. The mentor story also shows humility (he was the junior) without costing competence. See [[third-party-perspective]] and [[feel-not-just-think]].
 
 ## Personal, Not Private
 
@@ -82,3 +88,6 @@ The darts payoff shows competence and warmth in the same sentence. "Every Sunday
 - [[executive-presence]]
 - [[strong-opinions-loosely-held]]
 - [[speak-like-a-leader]]
+- [[how-to-sell-your-ideas]]
+- [[third-party-perspective]]
+- [[feel-not-just-think]]

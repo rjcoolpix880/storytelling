@@ -4,15 +4,17 @@
 
 **Lenses**: [[storytelling]], [[executive]], [[technical]]
 
-**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co)
+**Sources**: [Why Most Tech Professionals Are Terrible Communicators](https://www.youtube.com/watch?v=kdy-C61fb5g&t=1s), [Give me 18min & I'll improve your storytelling skills by 183%](https://www.youtube.com/watch?v=YtkrIaONxu0), [Van Neistat's Guide to Master Storytelling](https://www.youtube.com/watch?v=DyyjXFgM_6k), [Why Trying to "Sound Smart" is Losing You the Room | Strategic Story Producer Rob Willis](https://www.youtube.com/watch?v=JBIeii_Qrrg), [How to Tell Stories Better Than 99% of People](https://www.youtube.com/watch?v=lghSjBl9yGM), [Speak Like a Leader](mailto:hello@shannonjenkins.co), [How to Sell Your Ideas Better Than 99% of Your Colleagues](https://www.youtube.com/watch?v=kYv9N8F7l5o)
 
-**Last updated**: 2026-09-25
+**Last updated**: 2026-10-21
 
 ---
 
 This concept appears explicitly in the [[bluf-method]] and [[van-neistat-storytelling]] sources, and implicitly throughout the [[past-storytelling-technique]] source. It names the central failure mode of well-intentioned communicators.
 
 Rob Willis names this same failure mode the **Knowledge Deficit Trap**: when an audience doesn't immediately buy an idea, speakers assume they need more information, so they over-explain and reach for jargon to "sound smart" — when what's actually missing is connection, not data. See [[sounding-smart]].
+
+Shannon Jenkins's breakdown of Don Draper's Kodak pitch shows the same principle at both ends of a pitch (see [[how-to-sell-your-ideas]]). At the start, Don skips the projector's features, the "glittering lure" of technology (see [[the-expected-answer-trap]]). At the end, he stops talking once the idea lands, because "adding more would only dilute the impact" (see [[strategic-silence]]).
 
 ## The Pattern
 
@@ -65,3 +67,6 @@ In storytelling, this means reliving > reporting. In professional communication,
 - [[how-to-tell-stories-better]]
 - [[executive-presence]]
 - [[speak-like-a-leader]]
+- [[the-expected-answer-trap]]
+- [[strategic-silence]]
+- [[how-to-sell-your-ideas]]
